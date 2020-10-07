@@ -1,0 +1,3 @@
+This is a collection of a few small projects using the Moby Project lexical collection, mostly for fun and practice in Rust. The Moby Project is hosted at http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3201 with additional files on archive.org (https://archive.org/details/mobypartofspeech03203gut, as well as others)
+
+There will be a JSON file with all mobyproject words and their parts of speech given in the link above. There are also plans for a Spice Girl generator which parses the Parts of Speech file and generates a spice girl name out of a random adjective as well as a Shakesperean insult generator which pulls words based on their parts of speech in a given order to create an insult.  
