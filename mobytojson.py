@@ -6,10 +6,10 @@ import json
 
 words = []
 
-with open("mobypos.txt", 'r') as m:
+with open("moby.txt", 'r') as m:
     m.readline()
     for line in m:
-        line.encode('utf-8')
+        #line.encode('utf-8')
 
         (word, pos) = re.split(r'\\', line)
         arr = [word, pos] 
@@ -17,5 +17,5 @@ with open("mobypos.txt", 'r') as m:
 
 json_words = json.dumps(words)    
 
-#with open("mobywords.json", "w") as outfile:
-#    json.dump(words, outfile)
+with open("mobywords.json", "w") as outfile:
+    json.dump(json_words, outfile)
