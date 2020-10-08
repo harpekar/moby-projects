@@ -804,7 +804,7 @@ Abyssinia\N
 abyss\N
 Abyss\N
 aby\V
-Ab\8Elard\N
+Abélard\N
 AB\N
 Ab\N
 ab\N
@@ -842,8 +842,8 @@ academy\N
 Acadia National Park\h
 Acadian\AN
 Acadia\N
-Acad\8Emie Fran\8Daise\h
-Acad\8Emie Goncourt\h
+Académie Française\h
+Académie Goncourt\h
 acad\N
 acajou\N
 acalculia\N
@@ -2674,8 +2674,8 @@ adze\N
 Adzharistan\N
 adzuki bean\h
 adz\N
-Ad\8Elie Coast\h
-Ad\8Elie penguin\h
+Adélie Coast\h
+Adélie penguin\h
 ad\N
 AD\N
 Ad\N
@@ -2985,7 +2985,7 @@ Aetolia\N
 Aetolus\N
 aet\N
 AET\N
-Ae\91tes\N
+Aeëtes\N
 ae\AN
 AE\N
 ae\N
@@ -3108,7 +3108,7 @@ affronter\N
 affrontingly\v
 affrontiveness\N
 affrontive\A
-affront\8E\A
+affronté\A
 affront\Nt
 affusion\N
 aff\Pv
@@ -3319,7 +3319,7 @@ agatoid\A
 agave\N
 Agave\N
 agaze\A
-Aga\96a\N
+Agaña\N
 aga\N
 agba\N
 Agbogla\N
@@ -3642,12 +3642,12 @@ agrostology\N
 Agrotera\N
 aground\v
 agrypnotic\AN
-agr\8Eations\p
-agr\8Eation\N
-agr\8Eg\8Es\p
-agr\8Eg\8E\N
-agr\8Ements\p
-agr\8Ement\N
+agréations\p
+agréation\N
+agrégés\p
+agrégé\N
+agréments\p
+agrément\N
 agr\N
 agst\N
 AGS\N
@@ -3670,7 +3670,7 @@ Agung\N
 agura\N
 aguroth\p
 Agustin\N
-Agust\92n I\h
+Agustín I\h
 Agyieus\N
 Ag\N
 AG\N
@@ -3831,7 +3831,7 @@ Ainu\N
 ain\DN
 Ain\N
 air alert\h
-air attach\8E\h
+air attaché\h
 air bag\h
 air base\h
 air bed\h
@@ -3941,7 +3941,7 @@ air trap\h
 air turbine\h
 air twist\h
 air valve\h
-air vari\8E\h
+air varié\h
 air vesicle\h
 air vice-marshal\h
 air war\h
@@ -4184,7 +4184,7 @@ Al Marj\h
 Al Sirat\h
 al-Fustat\N
 Al-Gazel\N
-Al-Iskandar\94yah\N
+Al-Iskandarîyah\N
 al-Lat\N
 al-Sahih\N
 al-Uzza\N
@@ -4210,7 +4210,7 @@ alae\Np
 Alagez\N
 Alage\N
 Alagoas\N
-Alag\9Az\N
+Alagöz\N
 Alai Mountains\h
 Alain-Fournier\N
 Alaine\N
@@ -4251,7 +4251,7 @@ Alan\N
 alapa\N
 alap\N
 Alarcon\N
-Alarc\97n\N
+Alarcón\N
 Alard\N
 Alarice\N
 Alarick\N
@@ -4418,7 +4418,7 @@ alburnum\N
 Albury\N
 Albur\N
 Alby\N
-Alb\8Eniz\N
+Albéniz\N
 Alb\N
 alb\N
 Alcaeus\N
@@ -4470,9 +4470,9 @@ Alcina\N
 Alcine\N
 Alcinia\N
 Alcinous\N
-Alcino\9Fs\N
+Alcinoüs\N
 Alcis\N
-Alcitho\91\N
+Alcithoë\N
 alclad\A
 Alcmaeon\N
 Alcman\N
@@ -4616,15 +4616,15 @@ Alemanni\N
 Alembert\N
 alembicated\A
 alembic\N
-Alem\87n\N
+Alemán\N
 Alem\N
 Alena\N
 Alencon lace\h
 Alencon\N
 Alene\N
 Alenson\N
-Alen\8Don lace\h
-Alen\8Don\N
+Alençon lace\h
+Alençon\N
 aleph-null\N
 aleph\N
 Aleppo gall\h
@@ -5287,7 +5287,7 @@ allomorphism\N
 allomorph\N
 allonges\p
 allonge\N
-allong\8E\A
+allongé\A
 allonymously\v
 allonymous\A
 allonym\N
@@ -5395,7 +5395,7 @@ alma mater\h
 Alma-Ata\N
 Alma-Tadema\N
 Almada\N
-Almad\8En\N
+Almadén\N
 Almad\N
 Almagest\N
 almah\N
@@ -5418,7 +5418,7 @@ Almeria\N
 Almeric\N
 almeries\p
 almery\N
-Almer\92a\N
+Almería\N
 Almeta\N
 almightily\v
 almightiness\N
@@ -5917,7 +5917,7 @@ Amann\N
 amanuenses\p
 amanuensis\N
 Aman\N
-Amap\87\N
+Amapá\N
 Amap\N
 Amaral\N
 amaranthaceous\A
@@ -6758,8 +6758,8 @@ amputator\N
 amputee\N
 Ampycides\N
 Ampycus\N
-Amp\8Fre's law\h
-Amp\8Fre\N
+Ampère's law\h
+Ampère\N
 AMP\N
 Amp\N
 amp\N
@@ -6861,7 +6861,7 @@ Amytal\N
 Amythaon\N
 amyxorrhea\N
 Amy\N
-Am\8Elie\N
+Amélie\N
 AM\N
 Am\N
 am\V
@@ -7231,7 +7231,7 @@ ancestry\N
 Anchesmius\N
 Anchiale\N
 Anchie\N
-Anchino\91\N
+Anchinoë\N
 Anchises\N
 anchor ball\h
 anchor bed\h
@@ -7279,7 +7279,7 @@ anchylosing\ti
 anchylosis\N
 anchylotic\A
 ancien rgime\h
-ancien r\8Egime\N
+ancien régime\N
 ancienne noblesse\h
 Ancient Greek\h
 ancient history\h
@@ -7305,10 +7305,10 @@ ancones\p
 ancone\p
 anconoid\A
 ancon\N
-ancr\8E\A
+ancré\A
 Ancus Marcius\h
 ancylostomiasis\N
-Anc\97n\N
+Ancón\N
 ANC\N
 anc\N
 and circuit\h
@@ -7336,7 +7336,7 @@ Anderegg\N
 Anderer\N
 Anderlecht\N
 Andersen Nexo\h
-Andersen Nex\9A\h
+Andersen Nexö\h
 Andersen\N
 Anderson East Side\h
 Andersonville\N
@@ -7439,8 +7439,8 @@ Androw\N
 Andrsy\N
 Andrus\N
 Andryc\N
-Andr\87ssy\N
-Andr\8E\N
+Andrássy\N
+André\N
 Andr\N
 Andvari\N
 Andy\N
@@ -7776,7 +7776,7 @@ Angus Og\h
 Angus\N
 angwantibo\N
 Angy\N
-Ang\8Elique\N
+Angélique\N
 ANG\N
 anhaematopoiesis\N
 Anhalt\N
@@ -7880,7 +7880,7 @@ animist\A
 animosities\p
 animosity\N
 animus\N
-anim\8E\N
+animé\N
 anim\N
 anionic detergent\h
 anionic\A
@@ -8230,7 +8230,7 @@ Anson\N
 Anstice\N
 anstoss\N
 Anstus\N
-anst\9Asse\p
+anstösse\p
 answer back\V
 answer for\i
 answerability\N
@@ -9685,7 +9685,7 @@ Anzhero-Sudzhensk\N
 Anzio\N
 Anzovin\N
 ANZUS\N
-An\87polis\N
+Anápolis\N
 an\DC
 AN\N
 An\N
@@ -9776,7 +9776,7 @@ aperture ratio\h
 apertured\A
 aperture\N
 apery\N
-aper\8Du\N
+aperçu\N
 apetalousness\N
 apetalous\A
 apetaly\N
@@ -10141,7 +10141,7 @@ apparition\N
 apparitor\N
 appar\N
 appassionato\Av
-appaum\8E\A
+appaumé\A
 appd\N
 appealability\N
 appealable\A
@@ -10161,7 +10161,7 @@ appeaser\N
 appease\t
 appeasingly\v
 appeasing\t
-appelation contr\99l\8Ee\h
+appelation contrôlée\h
 appellant\NA
 appellate division\h
 appellate\A
@@ -10276,9 +10276,9 @@ applied linguistics\h
 applied\A
 applier\N
 applique\NV
-appliqu\8Ed\V
-appliqu\8Eing\V
-appliqu\8E\ANt
+appliquéd\V
+appliquéing\V
+appliqué\ANt
 applying\V
 apply\Vit
 appmt\N
@@ -10466,12 +10466,12 @@ Apulia\N
 Apul\N
 Apure\N
 Apurimac\N
-Apur\92mac\N
+Apurímac\N
 Apus\N
 apx\N
 apyretic\A
-ap\8Eritifs\p
-ap\8Eritif\N
+apéritifs\p
+apéritif\N
 Ap\N
 ap\N
 AP\N
@@ -10599,7 +10599,7 @@ aragonite\N
 Aragon\NA
 Arago\N
 Araguaia\N
-Araguar\92\N
+Araguarí\N
 Araguaya\N
 Arakan Mountains\h
 Arakan Yoma\h
@@ -10654,8 +10654,8 @@ Arawaks\p
 Arawak\N
 Arawn\N
 Araxes\N
-Arax\87\N
-Ara\8Datuba\N
+Araxá\N
+Araçatuba\N
 ARA\N
 Ara\N
 arba kanfoth\h
@@ -10893,7 +10893,7 @@ archipelagos\p
 archipelago\N
 Archipenko\N
 archiphoneme\N
-Archipi\8Elago de Col\97n\h
+Archipiélago de Colón\h
 archiplasmic\A
 archiplasm\N
 architect's table\h
@@ -11019,7 +11019,7 @@ Ardyce\N
 Ardys\N
 Ardyth\N
 Ardy\N
-Ard\8Fche\h
+Ardèche\h
 Ard\N
 area bombing\h
 area code\h
@@ -11088,7 +11088,7 @@ Aret\N
 Areus\N
 Arezzini\N
 Arezzo\N
-Are\95tho\9Fs\N
+Areïthoüs\N
 ARE\N
 are\VN
 arfvedsonite\N
@@ -11190,7 +11190,7 @@ Argyres\N
 argyrodite\N
 Argyrol\N
 Argyrotoxus\N
-Arg\9Fedas\N
+Argüedas\N
 arg\N
 Arg\N
 Arhatship\N
@@ -11399,7 +11399,7 @@ Armenian Church\h
 Armenian\NA
 Armenia\N
 Armenoid\AN
-Armenti\8Fres\N
+Armentières\N
 Armenti\N
 Armen\N
 armer\N
@@ -11648,13 +11648,13 @@ arriving\V
 arrivisme\N
 arrivistes\p
 arriviste\N
-arriv\8Es\p
-arriv\8E\N
-arri\8Fre-bans\p
-arri\8Fre-ban\N
-arri\8Fre-pens\8Ee\N
-arri\8Fre-voussures\p
-arri\8Fre-voussure\N
+arrivés\p
+arrivé\N
+arrière-bans\p
+arrière-ban\N
+arrière-pensée\N
+arrière-voussures\p
+arrière-voussure\N
 Arri\N
 arri\N
 arrobas\p
@@ -11729,7 +11729,7 @@ arshin\N
 arsine\N
 arsino group\h
 Arsinous\N
-Arsino\91\N
+Arsinoë\N
 arsino\A
 Arsippe\N
 arsis\N
@@ -11987,7 +11987,7 @@ arythmical\A
 arythmic\A
 Ary\N
 Arzachel\N
-ar\90te\N
+arête\N
 AR\N
 ar\N
 Ar\N
@@ -12020,7 +12020,7 @@ asbestos cement\h
 asbestosis\N
 asbestos\N
 asbestous\A
-Asbj\9Arnsen\N
+Asbjörnsen\N
 asbolane\N
 Asbury\N
 asb\N
@@ -12261,7 +12261,7 @@ Asmara\N
 Asmodeus\N
 Asmonean\N
 ASM\N
-Asni\8Fres\N
+Asnières\N
 Asni\N
 ASN\N
 asocial\A
@@ -12409,8 +12409,8 @@ assemblyman\N
 assemblymen\p
 assembly\N
 Assembly\N
-assembl\8Es\p
-assembl\8E\N
+assemblés\p
+assemblé\N
 assembl\N
 assentation\N
 assentient\AN
@@ -12780,7 +12780,7 @@ Astyanax\N
 Astydamia\N
 astylar\A
 Asuncion\N
-Asunci\97n\N
+Asunción\N
 Asunci\N
 asunder\v
 Asura\N
@@ -12852,7 +12852,7 @@ ataraxic\AN
 Atarax\N
 atar\N
 Atascadero\N
-Atat\9Frk\N
+Atatürk\N
 Atat\N
 atavic\A
 atavism\N
@@ -12958,7 +12958,7 @@ athrocyte\N
 athrocytosis\N
 athwartships\v
 athwart\vP
-Ath\8Enienne\N
+Athénienne\N
 Atiana\N
 Atila\N
 atilt\v
@@ -13122,8 +13122,8 @@ attachable\A
 attached\A
 attacher\N
 attachment\N
-attach\8E case\h
-attach\8E\N
+attaché case\h
+attaché\N
 attach\NVi
 attackable\A
 attacker\N
@@ -13304,7 +13304,7 @@ au contraire\h
 au courant\A
 au fait\A
 au fond\v
-au grand s\8Erieux\h
+au grand sérieux\h
 au gratin\A
 au jus\A
 au lait\A
@@ -13435,7 +13435,7 @@ Auerbach\N
 Auer\N
 auf Wiedersehen\!
 Aufklrung\N
-Aufkl\8Arung\h
+Aufklärung\h
 Aufmann\N
 Augean stables\p
 Augean\A
@@ -13605,7 +13605,7 @@ ausforming\N
 Ausgleiche\p
 Ausgleich\N
 Auslese\N
-Ausl\8Ander\N
+Ausländer\N
 Ausonius\N
 auspex\N
 auspicated\V
@@ -13748,10 +13748,10 @@ autistic\A
 autist\N
 Auto Call\h
 auto court\h
-auto de f\8E\h
+auto de fé\h
 auto lift\h
 auto-alarm\N
-auto-da-f\8E\N
+auto-da-fé\N
 auto-da-f\N
 auto-infection\N
 auto-inoculability\N
@@ -13907,7 +13907,7 @@ autonomist\N
 autonomously\v
 autonomous\A
 autonomy\N
-Autono\91\N
+Autonoë\N
 autonym\N
 autooxidation\N
 autophyte\N
@@ -13934,7 +13934,7 @@ autoreflection\N
 autorotation\N
 autoroute\N
 autos sacramentales\p
-autos-da-f\8E\N
+autos-da-fé\N
 autosome\N
 autostability\N
 autostoper\N
@@ -14093,7 +14093,7 @@ Averroes\N
 Averroism\N
 Averroistic\A
 Averroist\N
-Averro\91s\N
+Averroës\N
 aversely\v
 averseness\N
 averse\A
@@ -14136,7 +14136,7 @@ aviation\N
 aviator\N
 aviatrices\p
 aviatrix\N
-Avicebr\97n\N
+Avicebrón\N
 Avicenna\N
 Avice\N
 avicularian\A
@@ -14390,7 +14390,7 @@ Aylward\N
 Aymaran\A
 Aymara\N
 Aymer\N
-Aym\8E\N
+Aymé\N
 Aym\N
 Aynat\N
 ayous\N
@@ -14420,7 +14420,7 @@ Azarria\N
 Azar\N
 azathioprine\N
 Azazel\N
-Aza\96a\N
+Azaña\N
 Azbine\N
 azedarach\N
 Azeglio\N
@@ -14469,7 +14469,7 @@ Azophi\N
 Azores high\h
 Azores\p
 Azorian\AN
-Azor\92n\N
+Azorín\N
 Azor\N
 azoted\A
 azotemia\N
@@ -14503,14 +14503,14 @@ Azusa\N
 azygospore\N
 azygous\A
 az\N
-a\8Erogramme\h
-A\91don\N
-a\91rially\v
-a\91rialness\N
-A\91rope\N
-a\94n\8E\A
-A\95da\N
-A\95r\N
+aérogramme\h
+Aëdon\N
+aërially\v
+aërialness\N
+Aërope\N
+aîné\A
+Aïda\N
+Aïr\N
 a\DNVP
 A\N
 B battery\h
@@ -14725,7 +14725,7 @@ Bach\N
 bach\NV
 bacillary\A
 bacillemia\N
-bacillus Calmette-Gu\8Erin\h
+bacillus Calmette-Guérin\h
 bacillus\N
 Bacis\N
 bacitracin\N
@@ -15181,11 +15181,11 @@ bahuts\p
 bahut\N
 bahuvrihis\p
 bahuvrihi\N
-Bah\87'\92\NA
-Bah\87ist\NA
-Bah\87ull\87h\N
-Bah\87\92sm\N
-Bah\92a Blanca\h
+Bahá'í\NA
+Baháist\NA
+Baháulláh\N
+Baháísm\N
+Bahía Blanca\h
 bah\!
 Bai;\N
 Baiae\N
@@ -15198,7 +15198,7 @@ bail up\Vti
 bailable\A
 Bailar\N
 Baile ath\h
-Baile \87tha Cliath\h
+Baile átha Cliath\h
 bailee\N
 Bailey bridge\h
 baileys\p
@@ -15533,8 +15533,8 @@ Ballman\N
 ballocks\p!V
 ballon d'essai\h
 ballonet\N
-ballonn\8Es\p
-ballonn\8E\N
+ballonnés\p
+ballonné\N
 ballon\N
 balloon barrage\h
 balloon chuck\h
@@ -16564,8 +16564,8 @@ barry-wavy\A
 Barrymore\N
 barry\A
 Barry\N
-barr\8E\N
-Barr\8Fs\N
+barré\N
+Barrès\N
 Barr\N
 barr\NVv
 Barsac\N
@@ -16613,7 +16613,7 @@ Bartosch\N
 Bartramian sandpiper\h
 Bartram\N
 Barty\N
-Bart\97k\N
+Bartók\N
 Bart\N
 Baruch\N
 Barvick\N
@@ -16850,7 +16850,7 @@ Bassenthwaite\N
 basses danses\p
 Basses-Alpes\N
 Basses-Pyrn\N
-Basses-Pyr\8En\8Ees\N
+Basses-Pyrénées\N
 basset horn\h
 basset table\h
 basseted\V
@@ -17046,7 +17046,7 @@ Batista\N
 batiste\N
 Batley\N
 batlike\A
-Batlle y Ord\97\96ez\h
+Batlle y Ordóñez\h
 Batman\N
 batman\N
 batmen\p
@@ -17192,8 +17192,8 @@ baum marten\h
 Baumann\N
 Baumbaugh\N
 Baumeister\N
-Baum\8E scale\h
-Baum\8E\A
+Baumé scale\h
+Baumé\A
 Baum\N
 Baun\N
 Bauru\N
@@ -17258,7 +17258,7 @@ bayadere\NA
 bayamos\p
 Bayamo\N
 bayamo\N
-Bayam\97n\N
+Bayamón\N
 Bayam\N
 Bayard\N
 bayard\NA
@@ -18170,7 +18170,7 @@ belaying pin\h
 belaying\V
 Belayneh\N
 belay\VN
-Bela\9Cnde\N
+Belaúnde\N
 Bela\N
 Belcher\N
 belcher\N
@@ -18440,7 +18440,7 @@ Belvidere\N
 belying\t
 Bely\N
 Belzoni\N
-Bel\8Em\N
+Belém\N
 bel\N
 Bel\N
 bemata\p
@@ -18679,8 +18679,8 @@ Benn\N
 Benoite\N
 Benoit\N
 Benoni\N
-Beno\94t de Sainte-Maure\h
-Beno\94t\N
+Benoît de Sainte-Maure\h
+Benoît\N
 Beno\N
 Bensenville\N
 Bensen\N
@@ -18774,7 +18774,7 @@ benzylidene acetone\h
 benzylidene chloride\h
 benzylidene\A
 benzyl\N
-Ben\8Et\N
+Benét\N
 Ben\N
 ben\NPvA
 Beograd\N
@@ -18873,8 +18873,8 @@ Bergstein\N
 Bergstrom\N
 Bergwall\N
 bergy bit\h
-berg\8Fres\p
-berg\8Fre\N
+bergères\p
+bergère\N
 berg\N
 Berg\N
 Berhley\N
@@ -18997,7 +18997,7 @@ Bernt\N
 Berny\N
 Bern\N
 Berosus\N
-Bero\91\N
+Beroë\N
 berretta\N
 berried\V
 berries\p
@@ -19066,7 +19066,7 @@ besague\N
 Besancon\N
 Besant\N
 besant\N
-Besan\8Don\N
+Besançon\N
 bescreen\t
 bescribbled\t
 bescribble\t
@@ -19308,7 +19308,7 @@ Betz\N
 bet\NV
 Beulah\N
 beurre fondu\h
-beurre mani\8E\h
+beurre manié\h
 beurre noir\h
 Beuthel\N
 Beuthen\N
@@ -20712,7 +20712,7 @@ Bjneborg\N
 Bjoerling\N
 Bjork\N
 Bjorn\N
-Bj\9Arnson\N
+Björnson\N
 bkbndr\N
 bkcy\N
 bkg\N
@@ -21153,7 +21153,7 @@ Blarney stone\h
 blarneyed\V
 blarneying\V
 blarney\NV
-Blasco Ib\87\96ez\h
+Blasco Ibáñez\h
 Blasco Ib\h
 Blasdell\N
 Blaseio\N
@@ -21208,7 +21208,7 @@ blastulas\p
 blastula\N
 blasty\A
 blast\N!Vt
-blas\8E\A
+blasé\A
 blas\A
 Blas\N
 blatancy\N
@@ -22000,8 +22000,8 @@ blype\N
 Blytheville\N
 Blythe\N
 Blyth\N
-Bl\8Eriot\N
-Bl\9Fcher\N
+Blériot\N
+Blücher\N
 bl\N
 BL\N
 BMarE\N
@@ -22183,7 +22183,7 @@ bobsy-die\N
 bobs\NAt
 bobtail\NAt
 bobwhite\N
-bob\90che\N
+bobêche\N
 Bob\N
 bob\ViN
 bocaccios\p
@@ -22205,7 +22205,7 @@ boded\V
 bodegas\p
 bodega\N
 bodegones\p
-bodeg\97n\N
+bodegón\N
 bodement\N
 Bodenheim\N
 Bodensee\N
@@ -22335,7 +22335,7 @@ bogglingly\v
 boggling\V
 Boggs\N
 boggy\A
-Boghazk\9Ay\N
+Boghazköy\N
 boghead coal\h
 bogies\p
 bogie\N
@@ -22350,7 +22350,7 @@ bogong\N
 Bogor\N
 Bogosian\N
 Bogota\N
-Bogot\87\N
+Bogotá\N
 Bogot\N
 bogtrotter\N
 bogued\i
@@ -22402,7 +22402,7 @@ boil over\Vi
 boil up\i
 boil-off\N
 boilable\A
-Boileau-Despr\8Eaux\N
+Boileau-Despréaux\N
 Boileau\N
 boiled dinner\h
 boiled dressing\h
@@ -22541,8 +22541,8 @@ Bolshy\N
 bolson\N
 bolsterer\N
 bolster\tN
-bols\97ns\p
-bols\97n\N
+bolsóns\p
+bolsón\N
 bolt boat\h
 bolt hole\h
 bolt strake\h
@@ -22567,7 +22567,7 @@ bolus\N
 Bolyai\N
 Bolzano-Weierstrass theorem\h
 Bolzano\N
-Bol\92var\N
+Bolívar\N
 bol\N
 Bol\N
 Bomarc\N
@@ -22609,14 +22609,14 @@ bombproof\ANt
 bombshell\N
 bombsight\N
 bombycid\NA
-bomb\8E\A
+bombé\A
 bomb\ANVi
 bomi\p
 Bomke\N
 Bomu\N
 bon ami\h
-bon app\8Etit\h
-bon march\8E\h
+bon appétit\h
+bon marché\h
 bon mot\h
 bon ton\h
 bon vivant\h
@@ -22642,7 +22642,7 @@ bonaventure\N
 Bonaventure\N
 bonavist\N
 Bona\N
-bonbonni\8Fres\p
+bonbonnières\p
 bonbons\p
 bonbon\N
 bonce\N
@@ -22756,8 +22756,8 @@ bonnet monkey\h
 bonnet rouge\h
 bonnet top\h
 bonnethead\N
-bonneti\8Fres\p
-bonneti\8Fre\N
+bonnetières\p
+bonnetière\N
 bonnetless\A
 bonnetlike\A
 bonnets rouges\p
@@ -23394,21 +23394,21 @@ Botvinnik\N
 Botzow\N
 BOT\N
 bot\NVi
-Bouak\8E\N
+Bouaké\N
 Bouak\N
 Bouar\N
 Bouchard\N
 Boucher\N
-Bouches-du-Rh\99ne\N
+Bouches-du-Rhône\N
 Bouches-du-Rh\N
 bouche\N
 Bouchier\N
 bouchons\p
 bouchon\N
-Bouch\8E\N
+Bouché\N
 bouch\N
 Boucicault\N
-boucl\8E\N
+bouclé\N
 boucl\NA
 boudeuse\N
 Boudicca\N
@@ -23558,8 +23558,8 @@ Bourn\N
 bourn\N
 Bourque\N
 bourrasque\N
-bourr\8Ees\p
-bourr\8Ee\N
+bourrées\p
+bourrée\N
 bourr\N
 Bourse\N
 bourtree\N
@@ -23574,9 +23574,9 @@ bouteria\p
 boutique\N
 Boutis\N
 boutonniere\N
-boutonni\8Fres\p
+boutonnières\p
 Bouton\N
-bouts-rim\8Es\p
+bouts-rimés\p
 bout\N
 bouvardia\N
 Bouvard\N
@@ -23833,9 +23833,9 @@ bozo\N
 Bozuwa\N
 Bozzaris\N
 Boz\N
-Bo\91dromius\N
-bo\94te\N
-Bo\9Ates\N
+Boëdromius\N
+boîte\N
+Boötes\N
 bo\!
 BO\N
 Bo\N
@@ -23857,7 +23857,7 @@ Braasch\N
 braata\N
 Brabantine\A
 Brabant\N
-Braban\8Don\N
+Brabançon\N
 Brabazon\N
 brabbled\V
 brabblement\N
@@ -24274,11 +24274,11 @@ brassiness\N
 brassish\A
 brassware\N
 brassy\A
-Brass\97\N
+Brassó\N
 Brass\N
 brass\N
 Braswell\N
-Bras\92lia\N
+Brasília\N
 Brathwaite\N
 bratina\N
 Bratislava\N
@@ -24299,7 +24299,7 @@ bratty\A
 bratwurst\N
 brat\N
 Brauhaus\N
-Brauh\8Auser\p
+Brauhäuser\p
 braunite\N
 Braunschweiger\N
 Braunschweig\N
@@ -24630,7 +24630,7 @@ Brest\N
 Bres\N
 Bretagne\N
 bretelle\N
-bretess\8E\N
+bretessé\N
 brethren\p
 Breton lace\h
 Breton\AN
@@ -24996,8 +24996,8 @@ bristols\p
 Bristol\N
 Bristow\N
 brisure\N
-bris\8Es\p
-bris\8E\N
+brisés\p
+brisé\N
 Britain\N
 Britannia metal\h
 Britannia\N
@@ -25160,7 +25160,7 @@ brochettes\p
 brochette\N
 broche\N
 brochure\N
-broch\8E\AN
+broché\AN
 broch\AN
 brockage\N
 Brocken bow\h
@@ -25327,7 +25327,7 @@ Bronson\N
 Brontes\N
 brontosaurus\N
 brontosaur\N
-Bront\91\N
+Brontë\N
 Bront\N
 Bronwen\N
 Bronwyn\N
@@ -25433,7 +25433,7 @@ broughta\N
 brought\V
 brough\N
 brouhaha\N
-brouill\8E\A
+brouillé\A
 Broun\N
 Brout\N
 Brouwer fixed-point theorem\h
@@ -25549,8 +25549,8 @@ brujo\N
 Brule\N
 brulyiement\N
 brulyie\N
-brul\8Es\p
-brul\8E\N
+brulés\p
+brulé\N
 Brumaire\N
 brumal\A
 brumbies\p
@@ -25572,7 +25572,7 @@ Brunelle\N
 Brunell\N
 Brunel\N
 Bruner\N
-Bruneti\8Fre\N
+Brunetière\N
 brunetness\N
 brunetteness\N
 brunette\NA
@@ -25685,10 +25685,10 @@ Bryozoa\N
 Brythonic\NA
 Brython\N
 Brzegiem\N
-Br\9Fcke Die\h
-Br\9Fnnhilde\N
-Br\9Fnn\N
-br\9Fscha\h
+Brücke Die\h
+Brünnhilde\N
+Brünn\N
+brüscha\h
 Br\N
 br\N
 Bs/L\h
@@ -26017,7 +26017,7 @@ budlike\A
 Budweis\N
 Budwig\N
 Budworth\N
-Bud\91nny\N
+Budënny\N
 Bud\N
 bud\NV
 Buehler\N
@@ -26586,7 +26586,7 @@ bureaucratizing\t
 bureaucrat\N
 bureaux\p
 bureau\N
-burel\8E\N
+burelé\N
 burette\N
 Bure\N
 Burford\N
@@ -27334,34 +27334,34 @@ Byzas\N
 Byz\N
 by\PvN
 Bziers\N
-B\87b\92\N
-B\87b\N
-B\87r\87ny\N
-B\89le\N
-B\89tard-Montrachet\N
-B\8Earnaise\N
-b\8Echamel\N
-B\8Ecquer\N
-B\8Eranger\N
-B\8Er\8Enice\N
-b\8Eton brut\h
-b\8Eton\N
-B\8Eziers\N
-B\8E\h
-b\90che\N
-b\90te noire\h
-b\90tise\N
-B\92o-B\92o\N
-B\99ne\N
-B\9Ahmerwald\N
-B\9Ahme\N
-B\9Ahm\N
-B\9Anpa\N
-B\9An\N
-B\9Attger\N
-B\9Flow\N
-B\9Fnde\p
-B\9Frg\N
+Bábí\N
+Báb\N
+Bárány\N
+Bâle\N
+Bâtard-Montrachet\N
+Béarnaise\N
+béchamel\N
+Bécquer\N
+Béranger\N
+Bérénice\N
+béton brut\h
+béton\N
+Béziers\N
+Bé\h
+bêche\N
+bête noire\h
+bêtise\N
+Bío-Bío\N
+Bône\N
+Böhmerwald\N
+Böhme\N
+Böhm\N
+Bönpa\N
+Bön\N
+Böttger\N
+Bülow\N
+Bünde\p
+Bürg\N
 B\N
 b\N
 C battery\h
@@ -27375,7 +27375,7 @@ c'est autre chose\h
 c'est la guerre\h
 c'est la vie\h
 c'est selon\h
-c'est-\88-dire\h
+c'est-à-dire\h
 c-axis\N
 C-bias\N
 C-note\N
@@ -27605,7 +27605,7 @@ cacophonies\p
 cacophonously\v
 cacophonous\A
 cacophony\N
-caco\91thes\N
+cacoëthes\N
 cacqueteuses\p
 cacqueteuse\N
 cactaceous\A
@@ -27766,15 +27766,15 @@ Caffrey\N
 caff\N
 caftaned\A
 caftan\N
-caf\8E au lait\h
-caf\8E car\h
-caf\8E cr\8Fme\h
-caf\8E curtain\h
-caf\8E filtre\h
-caf\8E noir\h
-caf\8E society\h
-caf\8Es\p
-caf\8E\N
+café au lait\h
+café car\h
+café crème\h
+café curtain\h
+café filtre\h
+café noir\h
+café society\h
+cafés\p
+café\N
 caf\N
 CAF\N
 cag-handed\A
@@ -28246,7 +28246,7 @@ Callipolis\N
 Callippic cycle\h
 Callippus\N
 callipygian\A
-Callirrho\91\N
+Callirrhoë\N
 Callista\N
 Calliste\N
 callisthenics\N
@@ -28363,7 +28363,7 @@ calvities\N
 calvous\A
 Calvo\N
 calvus\A
-Calv\8E\N
+Calvé\N
 calx\N
 calycate\A
 calyces\N
@@ -28385,14 +28385,14 @@ calyptra\N
 calyptrogen\N
 Calysta\N
 calyx\N
-cal\8Fches\p
-cal\8Fche\N
+calèches\p
+calèche\N
 cal\N
 Cal\N
 Cam Ranh\h
 camaca\N
 Camacho\N
-Camag\9Fey\N
+Camagüey\N
 Camag\N
 camailed\A
 camail\N
@@ -28533,7 +28533,7 @@ camouflaging\V
 camouflet\N
 camoufleurs\p
 camoufleur\N
-Camo\91ns\N
+Camoëns\N
 camp bed\h
 camp car\h
 camp ceiling\h
@@ -28721,8 +28721,8 @@ Canandaigua\N
 Canandelabrum\N
 Cananean\N
 Cananea\N
-canap\8Es\p
-canap\8E\N
+canapés\p
+canapé\N
 canap\N
 Canara\N
 canards\p
@@ -28776,7 +28776,7 @@ cancer\N
 Cancer\NA
 cancha\N
 canciones\p
-canci\97n\N
+canción\N
 cancrine\A
 cancrizans\A
 cancroid\AN
@@ -30250,7 +30250,7 @@ carrion\N
 Carrissa\N
 carritch\N
 Carrizo Springs\h
-Carri\8Fre\N
+Carrière\N
 Carri\N
 carri\p
 Carrnan\N
@@ -30292,7 +30292,7 @@ carryings-on\p
 carrying\V
 Carry\N
 carry\ViN
-Carr\8Fre\N
+Carrère\N
 Carr\N
 carse\N
 carshops\p
@@ -30418,8 +30418,8 @@ caryophyllaceous\A
 caryopsis\N
 Cary\N
 carzey\N
-Car\92as Andino\h
-Car\9Cpano\N
+Carías Andino\h
+Carúpano\N
 Car\N
 car\N
 Casa Grande\h
@@ -31071,7 +31071,7 @@ Cathee\N
 cathepsin\N
 catheptic\A
 Catherina\N
-Catherine de M\8Edicis\h
+Catherine de Médicis\h
 Catherine Howard\h
 Catherine II\h
 Catherine I\h
@@ -31499,9 +31499,9 @@ cay\N
 Cazenovia\N
 Cazzie\N
 Caz\N
-ca\95que\N
-ca\96ada\N
-ca\96on\N
+caïque\N
+cañada\N
+cañon\N
 CA\N
 Ca\N
 ca\N
@@ -31528,7 +31528,7 @@ cd\N
 Cd\N
 CD\N
 ceanothus\N
-Cear\87\N
+Ceará\N
 Cear\N
 cease-and-desist order\h
 cease-fire\N!
@@ -31541,7 +31541,7 @@ ceasing\V
 Ceausescu\N
 CEA\N
 Cebriones\N
-Ceb\9C\N
+Cebú\N
 Ceb\N
 cecal\A
 cecca\p
@@ -32099,7 +32099,7 @@ cercariae\p
 cercarial\A
 cercarian\AN
 cercaria\N
-cercel\8Ee\A
+cercelée\A
 cercis\N
 cerci\p
 Cercopes\p
@@ -32248,7 +32248,7 @@ ceruse\N
 cerussite\N
 Cervantes\N
 cervelat\N
-cervelli\8Fre\N
+cervellière\N
 Cerveny\N
 Cervera y Topete\h
 cervical smear\h
@@ -32350,7 +32350,7 @@ Ch'ing\N
 ch'in\N
 Ch'in\N
 Ch'iu Ch'u-chi\h
-Ch'\90n Tu-hsiu\h
+Ch'ên Tu-hsiu\h
 cha-cha-cha\Ni
 cha-chaed\p
 cha-chaing\p
@@ -32626,7 +32626,7 @@ Chamblee\N
 Chambord\N
 chambray\N
 Chambry\N
-Chamb\8Ery\N
+Chambéry\N
 chameleonic\A
 chameleonlike\A
 chameleon\N
@@ -32674,10 +32674,10 @@ championlike\A
 championship\N
 champion\NAvt
 Champlain\N
-champlev\8E\AN
+champlevé\AN
 champlev\AN
 Champollion\N
-Champs Elys\8Ees\h
+Champs Elysées\h
 Champs lys\h
 champy\A
 Champ\N
@@ -33203,7 +33203,7 @@ Charybdian\A
 Charybdis\N
 Charyl\N
 chary\A
-char\88cin\N
+charàcin\N
 Char\N
 char\VtN
 Chase City\h
@@ -33238,9 +33238,9 @@ chasseur\NA
 Chasse\N
 Chassin\N
 chassis\N
-chass\8Ed\V
-chass\8Eing\V
-chass\8E\Ni
+chasséd\V
+chasséing\V
+chassé\Ni
 chass\NV
 Chastain\N
 chaste tree\h
@@ -33349,8 +33349,8 @@ chayote\N
 chay\N
 chazanim\p
 chazan\N
-cha\94n\8Es\p
-cha\94n\8E\N
+chaînés\p
+chaîné\N
 Cha\N
 ChB\N
 Che Guevara\h
@@ -33912,7 +33912,7 @@ Chichihaerh\N
 chichili\N
 Chichivache\N
 chichi\AN
-Chich\8En Itz\87\h
+Chichén Itzá\h
 chickabiddy\N
 chickadee\N
 Chickamauga\N
@@ -34099,7 +34099,7 @@ chillness\N
 Chillon\N
 chillum\N
 chilly\A
-Chill\87n\N
+Chillán\N
 Chill\N
 chill\NAt
 Chiloe Island\h
@@ -34299,7 +34299,7 @@ chintzy\A
 chintz\N
 Chinua\N
 chinwag\N
-chin\8E\A
+chiné\A
 chin\ANV
 Chin\N
 Chione\N
@@ -34832,7 +34832,7 @@ choruses\p
 chorusing\p
 chorusmaster\N
 chorus\NV
-Chorz\97w\N
+Chorzów\N
 Chorz\N
 Chor\N
 chosen people\p
@@ -34868,7 +34868,7 @@ chowhound\N
 Chow\N
 chow\N
 choy\N
-Cho\91phori\N
+Choëphori\N
 Cho\N
 CHQ\N
 chrematistic\A
@@ -35396,20 +35396,20 @@ chymotrypsin\N
 chymous\A
 Chyou\N
 chypre\N
-Ch\89lons\N
-Ch\89teau d'Yquem\h
-ch\89teau wine\h
-Ch\89teau-Thierry\N
-Ch\89teaubriand\N
-Ch\89teauneuf-du-Pape\N
-Ch\89teauroux\N
-ch\89teaus\p
-ch\89teaux\p
-ch\89teau\N
-ch\8Echia\N
-Ch\8Enier\N
-ch\8Eries\p
-ch\8Erie\N
+Châlons\N
+Château d'Yquem\h
+château wine\h
+Château-Thierry\N
+Châteaubriand\N
+Châteauneuf-du-Pape\N
+Châteauroux\N
+châteaus\p
+châteaux\p
+château\N
+chéchia\N
+Chénier\N
+chéries\p
+chérie\N
 Ch\N
 ch\N
 ci-devant\A
@@ -35906,7 +35906,7 @@ cirrus\N
 cirsectomies\p
 cirsectomy\N
 cirsoid\A
-cir\8E\N
+ciré\N
 cir\AN
 cis-trans test\h
 Cisalpine Gaul\h
@@ -35922,7 +35922,7 @@ ciseleurs\p
 ciseleur\N
 ciselures\p
 ciselure\N
-cisel\8E\A
+ciselé\A
 cising\t
 Ciskei\N
 cislunar\A
@@ -36014,7 +36014,7 @@ citruses\p
 citrus\NA
 cittern\N
 Cittticano\N
-Citt\88 del Vaticano\h
+Città del Vaticano\h
 city blues\h
 city chicken\h
 City Company\h
@@ -36045,11 +36045,11 @@ City\N
 city\N
 cit\N
 Ciudad Bolvar\h
-Ciudad Bol\92var\h
+Ciudad Bolívar\h
 Ciudad del Carmen\h
 Ciudad Jurez\h
-Ciudad Ju\87rez\h
-Ciudad Obreg\97n\h
+Ciudad Juárez\h
+Ciudad Obregón\h
 Ciudad Real\h
 Ciudad Trujillo\h
 Ciudad Victoria\h
@@ -36113,7 +36113,7 @@ civism\N
 civvies\p
 civvy\N
 civ\N
-ci\8Enaga\N
+ciénaga\N
 CI\N
 Ci\N
 CJ\N
@@ -36609,7 +36609,7 @@ cleavingly\v
 Cleavland\N
 Clea\N
 Cleburne\N
-clech\8E\A
+cleché\A
 cleck\tiN
 cleeked\V
 cleeking\V
@@ -36784,7 +36784,7 @@ clew\Nt
 clianthus\N
 cliche\N
 Clichy\N
-clich\8E\NA
+cliché\NA
 clich\N
 click beetle\h
 clicker\N
@@ -37014,7 +37014,7 @@ cloggy\A
 clog\VtiN
 Cloisonnisme\N
 Cloisonnist\NA
-cloisonn\8E\NA
+cloisonné\NA
 cloisonn\NA
 cloison\N
 cloister garth\h
@@ -37251,7 +37251,7 @@ cloyingly\v
 cloyingness\N
 cloying\A
 cloy\V
-Clo\91\N
+Cloë\N
 Clo\N
 club car\h
 club chair\h
@@ -37353,7 +37353,7 @@ clyster\N
 Clytemnestra\N
 Clyte\N
 Clytius\N
-Clyti\91\N
+Clytië\N
 Clyve\N
 Clywd\N
 Cly\N
@@ -37838,7 +37838,7 @@ Codd\N
 code book\h
 code flag\h
 Code Napolon\h
-Code Napol\8Eon\h
+Code Napoléon\h
 Code of Hammurabi\h
 codeclination\N
 coded\V
@@ -38224,7 +38224,7 @@ colascioni\p
 Colas\N
 colatitude\N
 colat\N
-Colaxa\95s\N
+Colaxaïs\N
 cola\N
 Colbaith\N
 Colbert\N
@@ -38880,8 +38880,8 @@ Colyer\N
 coly\N
 colza oil\h
 colza\N
-Col\97n Archipelago\h
-Col\97n\N
+Colón Archipelago\h
+Colón\N
 Col\N
 col\N
 Com in Chf\h
@@ -39169,7 +39169,7 @@ commensurateness\N
 commensurate\A
 commensuration\N
 comment allez-vous\h
-comment \8Da va?\h
+comment ça va?\h
 commentable\A
 commentarial\A
 commentaries\p
@@ -39187,7 +39187,7 @@ Commerce\N
 commercial agency\h
 commercial artist\h
 commercial art\h
-commercial attach\8E\h
+commercial attaché\h
 commercial bank\h
 commercial code\h
 commercial college\h
@@ -39443,7 +39443,7 @@ communional\A
 communionist\N
 Communion\N
 communion\N
-communiqu\8E\N
+communiqué\N
 communiqu\N
 communisation\N
 communised\t
@@ -39620,10 +39620,10 @@ compatriotic\A
 compatriotism\N
 compatriot\N
 Compazine\N
-compa\96eros\p
-compa\96ero\N
-compa\96ias\p
-compa\96ia\N
+compañeros\p
+compañero\N
+compañias\p
+compañia\N
 compeer\N
 compellable\A
 compellably\v
@@ -39677,7 +39677,7 @@ compiler\N
 compile\t
 compiling routine\h
 compiling\t
-Compi\8Fgne\N
+Compiègne\N
 Compi\N
 complacencies\p
 complacency\N
@@ -39990,7 +39990,7 @@ Comtist\NA
 Comus\N
 comvia\p
 Comyns\N
-Com\8Edie Fran\8Daise\h
+Comédie Française\h
 com\N
 Com\N
 COM\N
@@ -40000,7 +40000,7 @@ con dolore\Av
 con espressione\Av
 con fuoco\Av
 con game\h
-con maest\88\h
+con maestà\h
 con man\h
 con moto\Av
 con rod\h
@@ -40076,7 +40076,7 @@ concentric\A
 concentring\ti
 concent\N
 Concepcion\N
-Concepci\97n\N
+Concepción\N
 Concepci\N
 conceptacle\N
 conceptacular\A
@@ -40402,7 +40402,7 @@ condylomas\p
 condylomata\p
 condylomatous\A
 condyloma\N
-Cond\8E\N
+Condé\N
 cond\N
 Cond\N
 cone mill\h
@@ -40737,8 +40737,8 @@ congruity\N
 congruously\v
 congruousness\N
 congruous\A
-cong\8Es\p
-cong\8E\N
+congés\p
+congé\N
 cong\N
 Cong\N
 Coniah\N
@@ -41093,7 +41093,7 @@ consolitoriness\N
 consols\p
 consolute\A
 consol\N
-consomm\8E\N
+consommé\N
 consomm\N
 consonance\N
 consonant system\h
@@ -41760,8 +41760,8 @@ contusing\t
 contusioned\A
 contusion\N
 contusive\A
-cont\8Es\p
-cont\8E\N
+contés\p
+conté\N
 Cont\N
 cont\N
 conundrum\N
@@ -42145,7 +42145,7 @@ cope\itN
 Cope\N
 Copht\N
 Copiague\N
-Copiap\97\N
+Copiapó\N
 copier\N
 copies\p
 copilot\N
@@ -42273,7 +42273,7 @@ copyright\NAt
 copywriter\N
 copywriting\N
 copy\NV
-Cop\87n\N
+Copán\N
 Cop\N
 cop\NVt
 coq au vin\h
@@ -42947,7 +42947,7 @@ corruptness\N
 corruptor\N
 corrupt\AVt
 Corry\N
-Corr\8Fze\N
+Corrèze\N
 corr\N
 Corr\N
 corsac\N
@@ -42995,12 +42995,12 @@ Cortney\N
 Cortona\N
 Cortot\N
 Corty\N
-Cort\8Es\N
-cort\8Fges\p
-cort\8Fge\N
+Cortés\N
+cortèges\p
+cortège\N
 Cort\N
 cort\N
-Corumb\87\N
+Corumbá\N
 corundum\N
 Corunna\N
 coruscant\A
@@ -43008,7 +43008,7 @@ coruscated\i
 coruscate\i
 coruscating\i
 coruscation\N
-Coru\96a\N
+Coruña\N
 Corvallis\N
 Corvese\N
 corves\N
@@ -43018,7 +43018,7 @@ corvine\A
 Corvin\N
 corvo\N
 Corvus\N
-corv\8Ee\N
+corvée\N
 corv\N
 Corwin\N
 Corwun\N
@@ -43044,8 +43044,8 @@ Coryphaea\N
 coryphaeus\N
 Coryphasia\N
 Coryphodon\N
-coryph\8Ees\p
-coryph\8Ee\N
+coryphées\p
+coryphée\N
 coryph\N
 corypphaei\p
 Corythus\N
@@ -43230,7 +43230,7 @@ cosuretyship\N
 cosy along\t
 Cosyra\N
 cosy\AN
-Cos\93 fan tutte\h
+Così fan tutte\h
 cos\N
 Cos\N
 COS\N
@@ -43286,7 +43286,7 @@ Cottage Grove\h
 cottage hospital\h
 cottage industry\h
 cottage loaf\h
-cottage orn\8E\h
+cottage orné\h
 cottage piano\h
 cottage pie\h
 cottage pudding\h
@@ -43378,7 +43378,7 @@ coucher\N
 couchette\N
 couching\N
 Couchman\N
-couch\8E\A
+couché\A
 couch\Nti
 Coudersport\N
 coud\A
@@ -43410,7 +43410,7 @@ Coulson\N
 Coulter pine\h
 Coulter\N
 coulter\N
-coul\8Ee\N
+coulée\N
 coumarin\N
 coumarone resin\h
 coumarone\N
@@ -43681,9 +43681,9 @@ county\NA
 count\VtiN
 coup d'oeil\h
 coup d'tat\h
-coup d'\8Etat\h
+coup d'état\h
 coup de foudre\h
-coup de gr\89ce\h
+coup de grâce\h
 coup de gr\h
 coup de main\h
 couped\A
@@ -43706,7 +43706,7 @@ coups de main\p
 coups de plume\p
 coups de poing\p
 coups\p
-coup\8E\N
+coupé\N
 coup\NV
 cour d'honneur\h
 courageously\v
@@ -43821,12 +43821,12 @@ couture\N
 Couture\N
 couturiers\p
 couturier\N
-couturi\8Fres\p
-couturi\8Fre\N
+couturières\p
+couturière\N
 couvade\N
-Cou\8Eism\N
-cou\8E\A
-Cou\8E\N
+Couéism\N
+coué\A
+Coué\N
 covalence\N
 covalency\N
 covalent bond\h
@@ -44041,18 +44041,18 @@ cozy\AN
 Cozza\N
 Cozzens\N
 coz\N
-co\9Aperationist\N
-co\9Aperatively\v
-co\9Aperativeness\N
-co\9Aperator\N
-co\9Aptation\h
-co\9Aptative\A
-co\9Aption\N
-co\9Ardinately\v
-co\9Ardinateness\N
-co\9Ardinative\A
-co\9Ardinator\N
-co\9Ete que co\9Ete\h
+coöperationist\N
+coöperatively\v
+coöperativeness\N
+coöperator\N
+coöptation\h
+coöptative\A
+coöption\N
+coördinately\v
+coördinateness\N
+coördinative\A
+coördinator\N
+coûte que coûte\h
 Co\N
 co\N
 CO\N
@@ -44212,7 +44212,7 @@ cramper\N
 crampfishes\p
 crampfish\N
 crampingly\v
-cramponn\8Ee\A
+cramponnée\A
 crampon\N
 cramp\Nt
 Cram\N
@@ -44630,7 +44630,7 @@ crenellating\t
 crenelled\t
 crenelle\Nt
 crenelling\t
-crenell\8E\A
+crenellé\A
 crenel\N
 Crenshaw\N
 crenulate\A
@@ -44755,7 +44755,7 @@ Cretan\AN
 Creta\N
 Crete\N
 Cretheus\N
-Crethe\95s\N
+Cretheïs\N
 cretic\N
 cretinism\N
 cretinoid\A
@@ -44786,7 +44786,7 @@ crewman\N
 crewmen\p
 crewneck\A
 crew\NV
-Cre\9Fsa\N
+Creüsa\N
 cri de coeur\h
 crib-bite\i
 crib-biting\N
@@ -44802,7 +44802,7 @@ cribbled\t
 cribble\t
 cribbling\t
 cribellum\N
-cribl\8E\A
+criblé\A
 cribriform\A
 cribwork\N
 crib\NV
@@ -44825,7 +44825,7 @@ Crile\N
 crim con\h
 crime against nature\h
 Crime and Punishment\h
-crime d'\8Etat\h
+crime d'état\h
 crime passionel\h
 crime sheet\h
 Crimean War\h
@@ -45470,7 +45470,7 @@ Croydon\N
 croze\N
 Crozier\N
 crozier\N
-cro\9Ete\N
+croûte\N
 crs\N
 CRT\N
 cruces ansatae\p
@@ -45776,19 +45776,19 @@ Crystie\N
 cryst\N
 cry\VitN
 crzette\N
-Cr\8Ecy\NA
-cr\8Fche\N
-cr\8Fme d'ananas\h
-cr\8Fme de bananes\h
-cr\8Fme de cacao\h
-cr\8Fme de cassis\h
-cr\8Fme de fraise\h
-cr\8Fme de menthe\h
-cr\8Fme de violette\h
-cr\8Fme\N
-Cr\8Fvecoeur\N
-cr\90pe\N
-Cr\9Fger\N
+Crécy\NA
+crèche\N
+crème d'ananas\h
+crème de bananes\h
+crème de cacao\h
+crème de cassis\h
+crème de fraise\h
+crème de menthe\h
+crème de violette\h
+crème\N
+Crèvecoeur\N
+crêpe\N
+Crüger\N
 Cr\N
 CR\N
 cr\NA
@@ -45965,7 +45965,7 @@ cuff\Nt
 Cufic\NA
 cui bono\h
 cui-ui\N
-Cuiab\87\N
+Cuiabá\N
 Cuicuilco\N
 cuif\N
 cuing\V
@@ -45981,8 +45981,8 @@ cuitling\t
 cuittled\t
 cuittle\t
 cuittling\t
-cui\8Ejos\p
-cui\8Ejo\N
+cuiéjos\p
+cuiéjo\N
 Cui\N
 cuj\N
 Cukor\N
@@ -45996,7 +45996,7 @@ Culebra Cut\h
 culet\N
 culex\N
 Culhert\N
-Culiac\87n\N
+Culiacán\N
 Culiac\N
 culices\p
 culicid\NA
@@ -46107,7 +46107,7 @@ cum laude\h
 Cumaean sibyl\h
 Cumaean\A
 Cumae\N
-Cuman\87\N
+Cumaná\N
 Cuman\N
 cumarin\N
 cumarone\N
@@ -46278,7 +46278,7 @@ curatorship\N
 curator\N
 curatrices\p
 curatrix\N
-Cura\8Dao\N
+Curaçao\N
 curb ball\h
 curb bit\h
 curb chain\h
@@ -46523,8 +46523,8 @@ curvy\A
 Curwensville\N
 curying\t
 Curzon\N
-cur\8Es\p
-cur\8E\N
+curés\p
+curé\N
 cur\N
 Cusack\N
 Cusanus\N
@@ -46725,9 +46725,9 @@ Cut\N
 cut\VtiAN
 cuvette\N
 Cuvier\N
-cuv\8Ee\N
+cuvée\N
 Cuxhaven\N
-Cuyab\87\N
+Cuyabá\N
 Cuyab\N
 Cuyahoga Falls\h
 Cuyler\N
@@ -46751,7 +46751,7 @@ cyan blue\h
 cyanamide\N
 cyanate\N
 cyaneous\A
-Cyane\91\N
+Cyaneë\N
 Cyane\N
 cyanic acid\h
 cyanic\A
@@ -47163,22 +47163,22 @@ Czerny\N
 Czstochowa\N
 Czur\N
 CZ\N
-C\87diz\N
-C\87rdenas\N
-C\8Elibataires Les\h
-C\8Eline\N
-c\8Entimos\p
-c\8Entimo\N
-C\8Evennes\N
-C\8Ezanne\N
-C\97bh\N
-c\97mo est\87\h
-C\97rdoba\N
-C\99te d'Azur\h
-C\99te-d'Or\N
-C\99tes-du-Nord\N
-C\9Aln\N
-C\9Ccuta\N
+Cádiz\N
+Cárdenas\N
+Célibataires Les\h
+Céline\N
+céntimos\p
+céntimo\N
+Cévennes\N
+Cézanne\N
+Cóbh\N
+cómo está\h
+Córdoba\N
+Côte d'Azur\h
+Côte-d'Or\N
+Côtes-du-Nord\N
+Cöln\N
+Cúcuta\N
 C\N
 c\N
 D and C\h
@@ -47190,8 +47190,8 @@ D Mus\h
 D ration\h
 D region\h
 D Surg\h
-D \8Fs L\h
-D \8Fs S\h
+D ès L\h
+D ès S\h
 d'accord\v
 d'Albert\N
 D'Alembert Mountains\h
@@ -47250,7 +47250,7 @@ Dachia\N
 Dachi\N
 dachshund\N
 Dachy\N
-Dach\8E\N
+Daché\N
 Dacia\N
 Dacie\N
 dacker\i
@@ -47377,7 +47377,7 @@ daguerreotypy\N
 Daguerre\N
 Dagwood sandwich\h
 Dagwood\N
-Dag\9A\N
+Dagö\N
 Dag\N
 dag\VN
 dahabeah\N
@@ -47523,7 +47523,7 @@ Daly City\h
 Dalyce\N
 Dalymore\N
 Daly\N
-Dal\8En\N
+Dalén\N
 Dal\N
 dal\N
 damageability\N
@@ -47652,8 +47652,8 @@ Danang\N
 Danas\N
 Danaus\N
 Danava\N
-Dana\8An\A
-Dana\91\N
+Danaän\A
+Danaë\N
 Dana\N
 danburite\N
 Danbury\N
@@ -47667,7 +47667,7 @@ danceable\A
 danced\V
 dancer\N
 dancette\N
-dancett\8E\A
+dancetté\A
 dance\itN
 dancing step\h
 dancingly\v
@@ -47765,7 +47765,7 @@ Danite\N
 Danit\N
 Daniyal\N
 Dani\N
-danke sch\9An\h
+danke schön\h
 dankly\v
 dankness\N
 dank\A
@@ -48009,7 +48009,7 @@ Darya\N
 darya\p
 Daryle\N
 Daryl\N
-Dar\92o\N
+Darío\N
 Dar\N
 DAR\N
 Das Kapital\h
@@ -48136,7 +48136,7 @@ dauphiness\N
 dauphines\p
 dauphine\N
 dauphins\p
-Dauphin\8E\N
+Dauphiné\N
 Dauphin\N
 dauphin\N
 dautie\N
@@ -48328,7 +48328,7 @@ dd\N
 DD\N
 de Beauvoir\h
 de bene esse\h
-de bonne gr\89ce\h
+de bonne grâce\h
 de Broglie equation\h
 de Broglie wave\h
 de Broglie\h
@@ -48371,7 +48371,7 @@ De Quincey\h
 de rerum natura\h
 De Ridder\h
 de rigueur\A
-de r\8Fgle\h
+de règle\h
 de Sica\h
 de Sitter\h
 De Soto\h
@@ -49747,7 +49747,7 @@ deice\t
 deicidal\A
 deicide\N
 deicing\t
-Deico\9An\N
+Deicoön\N
 deictically\v
 deictic\A
 Deidamia\N
@@ -49858,7 +49858,7 @@ delayingly\v
 delay\tiN
 Dela\N
 Delbert\N
-Delcass\8E\N
+Delcassé\N
 Delcina\N
 Delcine\N
 delead\t
@@ -50343,7 +50343,7 @@ demonstrative\AN
 demonstrator\N
 demon\N
 Demophon\N
-Demopho\9An\N
+Demophoön\N
 Demopolis\N
 demoralisation\N
 demoralised\t
@@ -50674,7 +50674,7 @@ Denys\N
 Deny\N
 deny\V
 Denzil\N
-Den\94s\N
+Denîs\N
 Den\N
 den\NV
 Deo favente\h
@@ -51114,7 +51114,7 @@ Derril\N
 derring-do\N
 derringer\N
 derris\N
-derri\8Fre\N
+derrière\N
 derri\N
 Derron\N
 Derry\N
@@ -51142,7 +51142,7 @@ der\N
 Des Moines\h
 Des Peres\h
 Des Plaines\h
-Des Pr\8Es\h
+Des Prés\h
 Desaix de Veygoux\h
 Desai\N
 desalinated\t
@@ -51703,12 +51703,12 @@ deutoplasm\N
 Deutsche mark\h
 Deutsche Mark\h
 Deutscher\N
-Deutschland \9Fber alles\h
+Deutschland über alles\h
 Deutschland\N
 Deutsch\N
 deutzia\N
 Deut\N
-Deux-S\8Fvres\N
+Deux-Sèvres\N
 Deux-S\N
 devadasi\N
 devaluated\t
@@ -51738,8 +51738,8 @@ developing-out paper\h
 developing\it
 developmental\v
 development\N
-developp\8Es\p
-developp\8E\N
+developpés\p
+developpé\N
 develop\Vt
 devel\N
 Deventer\N
@@ -51981,13 +51981,13 @@ dey\N
 Dey\N
 Dezhnev\N
 dezincification\N
-De\95on\N
-De\95ope\N
-De\95philus\N
-De\95phobe\N
-De\95phobus\N
-De\95pyle\N
-De\95pylus\N
+Deïon\N
+Deïope\N
+Deïphilus\N
+Deïphobe\N
+Deïphobus\N
+Deïpyle\N
+Deïpylus\N
 DE\N
 de\NP
 DFA\N
@@ -53281,7 +53281,7 @@ diplosis\N
 diplostemonous\A
 diplostemony\N
 diplotene\N
-diplo\91\N
+diploë\N
 dipl\N
 dipneedle\N
 dipnoan\AN
@@ -54698,7 +54698,7 @@ distinguishingly\v
 distinguishing\A
 distinguishment\N
 distinguish\V
-distingu\8E\A
+distingué\A
 distingu\A
 distomatosis\N
 distortedly\v
@@ -55051,7 +55051,7 @@ divorcer\N
 divorce\NVt
 divorcing\V
 divorcive\A
-divorc\8E\N
+divorcé\N
 divot\N
 divulgated\t
 divulgater\N
@@ -55206,7 +55206,7 @@ dobie\N
 dobla\N
 Doble\N
 doblones\p
-dobl\97n\N
+doblón\N
 dobl\N
 dobra\N
 Dobrinsky\N
@@ -55475,7 +55475,7 @@ dog\NVt
 Doha\N
 Doherty\N
 Dohnnyi\N
-Dohn\87nyi\N
+Dohnányi\N
 doh\N
 Doig\N
 doiled\A
@@ -55907,7 +55907,7 @@ dopier\A
 dopiest\A
 doping\V
 Doppelger\N
-Doppelg\8Anger\N
+Doppelgänger\N
 Doppelmayer\N
 Dopper\N
 Doppler effect\h
@@ -56052,7 +56052,7 @@ Dorsy\N
 dorter\N
 Dorthea\N
 Dorthy\N
-Dortic\97s\N
+Dorticós\N
 dortiness\N
 Dortmund\N
 dorty\A
@@ -56065,11 +56065,11 @@ doryman\N
 dorymen\p
 Dory\N
 dory\N
-Dor\8E\N
+Doré\N
 Dor\N
 dor\N
 Dos Passos\h
-dos-\88-dos\vN
+dos-à-dos\vN
 dos-\N
 dosage\N
 Doscher\N
@@ -56421,8 +56421,8 @@ doux\A
 douzaines\p
 douzaine\N
 douzepers\p
-douzi\8Fmes\p
-douzi\8Fme\N
+douzièmes\p
+douzième\N
 Dou\N
 DOVAP\N
 dove color\h
@@ -56610,7 +56610,7 @@ dozily\v
 doziness\N
 dozing\Vt
 dozy\A
-do\96a\N
+doña\N
 DO\N
 do\VtiN
 DPA\N
@@ -56744,7 +56744,7 @@ dragsawing\N
 dragsaw\N
 dragster\N
 Draguignan\N
-drag\8Ee\N
+dragée\N
 drag\NVti
 drahthaar\N
 drail\Ni
@@ -57292,7 +57292,7 @@ drossiest\A
 drossiness\N
 drossy\A
 dross\N
-Droste-H\9Flshoff\N
+Droste-Hülshoff\N
 droughtier\A
 droughtiest\A
 droughtiness\N
@@ -57504,7 +57504,7 @@ Drysdale\N
 drys\A
 dry\AVtNv
 Dry\N
-Dr\99me\N
+Drôme\N
 DR\N
 Dr\N
 dr\N
@@ -57680,7 +57680,7 @@ Duester\N
 dues\p
 duettist\N
 duet\N
-Due\96a\N
+Dueña\N
 due\Nv
 Dufay\N
 duff up\t
@@ -58001,7 +58001,7 @@ dupped\t
 dupping\t
 duppy\N
 Dupre\N
-Dupr\8E\N
+Dupré\N
 Dupr\N
 Dupuis\N
 Dupuy\N
@@ -58235,7 +58235,7 @@ Dvinsk\N
 DVMS\N
 DVM\N
 Dvorak\N
-Dvor\87k\N
+Dvorák\N
 DVS\N
 DV\N
 Dwaine\N
@@ -58492,43 +58492,43 @@ Dzongka\N
 dzo\N
 Dzungaria\N
 dz\N
-d\8Ebouch\8E\N
-d\8Ebo\94t\8Es\p
-d\8Ebo\94t\8E\N
-d\8Eclass\8E\A
-d\8Ecolletage\N
-d\8Ecollet\8E\A
-d\8Ecor\N
-d\8Egag\8E\A
-d\8Ejeuners\p
-d\8Ejeuner\N
-d\8Ej\88 vu\h
-d\8Emarches\p
-d\8Emarche\N
-d\8Ementis\p
-d\8Ementi\N
-d\8Emod\8E\A
-d\8Epartements\p
-d\8Epartement\N
-D\8Esir\8Ee\N
-d\8Etentes\p
-d\8Etente\N
-d\8Etenues\p
-d\8Etenue\N
-d\8Etenus\p
-d\8Etenu\N
-D\92az de Bivar\h
-D\92az del Castillo\h
-D\92az Mir\97n\h
-D\92az Rodr\92guez\h
-D\92az\N
-D\9Ablin\N
-D\9Arfel Mountains\h
-D\9Fnaburg\N
-D\9Fna\N
-D\9Frer\N
-d\9Fsenwind\N
-D\9Fsseldorf\N
+débouché\N
+déboîtés\p
+déboîté\N
+déclassé\A
+décolletage\N
+décolleté\A
+décor\N
+dégagé\A
+déjeuners\p
+déjeuner\N
+déjà vu\h
+démarches\p
+démarche\N
+démentis\p
+démenti\N
+démodé\A
+départements\p
+département\N
+Désirée\N
+détentes\p
+détente\N
+détenues\p
+détenue\N
+détenus\p
+détenu\N
+Díaz de Bivar\h
+Díaz del Castillo\h
+Díaz Mirón\h
+Díaz Rodríguez\h
+Díaz\N
+Döblin\N
+Dörfel Mountains\h
+Dünaburg\N
+Düna\N
+Dürer\N
+düsenwind\N
+Düsseldorf\N
 d\N
 D\N
 E and P\h
@@ -59061,7 +59061,7 @@ echelon\NV
 Echemus\N
 Echetus\N
 echeveria\N
-Echeverr\92a\N
+Echeverría\N
 eche\ti
 echidna\N
 Echikson\N
@@ -60056,7 +60056,7 @@ elayl\N
 Elayne\N
 Elazaro\N
 Elazig\N
-Ela\95s\N
+Elaïs\N
 Ela\N
 Elbart\N
 Elba\N
@@ -61066,8 +61066,8 @@ embowel\V
 embower\t
 embowment\N
 embow\t
-embo\94t\8Es\p
-embo\94t\8E\N
+emboîtés\p
+emboîté\N
 embraceable\A
 embraced\Vt
 embracement\N
@@ -61485,20 +61485,20 @@ Emyle\N
 em\N
 Em\N
 EM\N
-en arri\8Fre\h
+en arrière\h
 en attendant\v
 en avant\h
 en bloc\v
 en brochette\Av
 en brosse\Av
 en cabochon\h
-en carr\8E\h
+en carré\h
 en clair\vA
 en dash\h
 en effet\h
 en face\A
 en famille\v
-en f\90te\h
+en fête\h
 en f\v
 en garde\!A
 en masse\v
@@ -61587,7 +61587,7 @@ encasement\N
 encase\t
 encash\t
 encasing\t
-encastr\8E\A
+encastré\A
 encaustically\v
 encaustic\AN
 enceintes\p
@@ -61629,8 +61629,8 @@ enchased\t
 enchaser\N
 enchase\t
 enchasing\t
-encha\94nements\p
-encha\94nement\N
+enchaînements\p
+enchaînement\N
 enchilada\N
 enchiridions\p
 enchiridion\N
@@ -61797,7 +61797,7 @@ endermic\A
 Enders\N
 Ender\N
 ender\N
-Ende\95s\N
+Endeïs\N
 endgame\N
 endhand\N
 endia\p
@@ -62056,7 +62056,7 @@ engage\Vi
 engagingly\v
 engagingness\N
 engaging\A
-engag\8E\A
+engagé\A
 engarde\N
 engarland\t
 Engdahl\N
@@ -62298,8 +62298,8 @@ Ennosigaeus\N
 ennui\N
 ennuyante\A
 ennuyant\A
-ennuy\8Ee\AN
-ennuy\8E\AN
+ennuyée\AN
+ennuyé\AN
 Enoch Arden\h
 Enoch\N
 enolate\N
@@ -62645,8 +62645,8 @@ entreaty\N
 entreat\V
 entrechats\p
 entrechat\N
-entrec\99tes\p
-entrec\99te\N
+entrecôtes\p
+entrecôte\N
 entrec\N
 entrelac\N
 entremets\N
@@ -62659,8 +62659,8 @@ entrepreneurs\p
 entrepreneur\N
 entrepreneuses\p
 entrepreneuse\N
-entrep\99ts\p
-entrep\99t\N
+entrepôts\p
+entrepôt\N
 entrep\N
 entresols\p
 entresol\N
@@ -62671,7 +62671,7 @@ entrustment\N
 entrust\t
 entryway\N
 entry\N
-entr\8Ee\N
+entrée\N
 entr\N
 entwined\ti
 entwinement\N
@@ -62771,7 +62771,7 @@ Enzed\N
 enzootic ataxia\h
 enzootically\v
 enzootic\AN
-enzo\9Atically\v
+enzoötically\v
 enzygotic\A
 enzymatically\v
 enzymatic\A
@@ -63253,7 +63253,7 @@ epizootically\v
 epizootic\AN
 epizooties\p
 epizooty\N
-epizo\9Atically\v
+epizoötically\v
 epizzoa\p
 Epner\N
 epoch-making\A
@@ -63813,7 +63813,7 @@ erythemal\A
 erythematic\A
 erythema\N
 erythemic\A
-Erythe\95s\N
+Erytheïs\N
 Erythraeum\N
 erythredema polyneuropathy\h
 erythrismal\A
@@ -63886,7 +63886,7 @@ escaping\V
 escapism\NA
 escapist\AN
 escapologist\N
-escargoti\8Fres\p
+escargotières\p
 escargots\p
 escargot\N
 escarole\N
@@ -64002,9 +64002,9 @@ espantoon\N
 Espartero\N
 espartos\p
 esparto\N
-Espa\96a\N
-espa\96oles\p
-espa\96ol\NA
+España\N
+españoles\p
+español\NA
 especially\v
 especialness\N
 especial\A
@@ -64016,8 +64016,8 @@ Esperanto\NA
 espial\N
 espied\t
 espionage\N
-espi\8Fgleries\p
-espi\8Fgle\A
+espiègleries\p
+espiègle\A
 esplanade\N
 esplees\p
 Espoo\N
@@ -64035,7 +64035,7 @@ Espronceda\N
 espying\t
 Espy\N
 espy\V
-Esp\92rito Santo\h
+Espírito Santo\h
 ESP\N
 esp\N
 esquamate\A
@@ -64651,8 +64651,8 @@ Euglena\N
 euglena\N
 Eugnie\N
 eugonic\A
-Eug\8Enie\N
-Eug\8Fne\N
+Eugénie\N
+Eugène\N
 Eug\N
 euhedral\A
 euhemerised\ti
@@ -64727,7 +64727,7 @@ eupatorium\N
 eupatridae\p
 eupatrid\N
 Eupen and Malmdy\h
-Eupen and Malm\8Edy\h
+Eupen and Malmédy\h
 eupepsia\N
 eupeptic\A
 euphausiid\N
@@ -66162,7 +66162,7 @@ expostulator\N
 exposure index\h
 exposure meter\h
 exposure\N
-expos\8E\N
+exposé\N
 expos\N
 expounder\N
 expound\V
@@ -66699,9 +66699,9 @@ Ezri\N
 Ezr\N
 Ezzo\N
 Ez\N
-E\91tion\N
-E\9Atv\9As torsion balance\h
-E\9Atv\9As unit\h
+Eëtion\N
+Eötvös torsion balance\h
+Eötvös unit\h
 e\N
 E\N
 F clef\h
@@ -66724,7 +66724,7 @@ FAAAS\N
 FAA\N
 fabaceous\A
 Fabens\N
-Faberg\8E\N
+Fabergé\N
 Faberg\N
 Faber\N
 Fabe\N
@@ -67014,8 +67014,8 @@ faintly\v
 faintness\N
 faints\p
 faint\AiN
-fain\8Eants\p
-fain\8Eant\AN
+fainéants\p
+fainéant\AN
 fain\vA
 fair ball\h
 fair catch\h
@@ -67982,7 +67982,7 @@ fauntleroy\A
 Faunus\N
 Faun\N
 faun\N
-Faur\8E\N
+Fauré\N
 Faur\N
 Fausta\N
 Faustena\N
@@ -68096,9 +68096,9 @@ fazendas\p
 fazenda\N
 faze\t
 fazing\t
-fa\8Dades\p
-fa\8Dade\N
-fa\95ence\N
+façades\p
+façade\N
+faïence\N
 FA\N
 fa\N
 FBA\N
@@ -68649,7 +68649,7 @@ Fermat's theorem\h
 fermata\N
 fermate\p
 Fermat\N
-ferme orn\8Ee\h
+ferme ornée\h
 fermentability\N
 fermentable\A
 fermentation alcohol\h
@@ -68678,7 +68678,7 @@ Fernandina Beach\h
 Fernandina\N
 Fernando de Noronha\h
 Fernando Po\h
-Fernando P\97o\h
+Fernando Póo\h
 Fernando\N
 Fernand\N
 Fernas\N
@@ -68698,8 +68698,8 @@ fernlike\A
 fernseed\N
 Fernyak\N
 ferny\A
-Fern\87ndez de Lizardi\h
-Fern\87ndez\N
+Fernández de Lizardi\h
+Fernández\N
 Fern\N
 fern\N
 ferociously\v
@@ -68956,7 +68956,7 @@ feuilletonistic\A
 feuilletonist\N
 feuilletons\p
 feuilleton\N
-Feuill\8Ee\N
+Feuillée\N
 Feune\N
 feux de joie\p
 feu\N
@@ -69007,10 +69007,10 @@ fiacres\p
 fiacre\N
 fiance\N
 fianchetto\Nit
-fianc\8Ees\p
-fianc\8Ee\N
-fianc\8Es\p
-fianc\8E\N
+fiancées\p
+fiancée\N
+fiancés\p
+fiancé\N
 Fianna Fail\h
 Fianna\N
 fiar\N
@@ -69538,7 +69538,7 @@ fillister head\h
 fillister\N
 Fillmore\N
 filly\N
-fill\8Er\p
+fillér\p
 fill\VN
 film clip\h
 film gate\h
@@ -69606,7 +69606,7 @@ filtration\N
 filtre\A
 filt\N
 filum\N
-fil\8E\N
+filé\N
 fil\N
 Fima\N
 fimble\N
@@ -69618,7 +69618,7 @@ fimbriating\V
 fimbriation\N
 fimbria\N
 fimbrillate\A
-fin de si\8Fcle\h
+fin de siècle\h
 fin keel\h
 fin whale\h
 fin-footed\A
@@ -69652,7 +69652,7 @@ financially\v
 financial\A
 financier\N
 financing\V
-financi\8Fre\AN
+financière\AN
 Fina\N
 finback\N
 Finbar\N
@@ -69757,7 +69757,7 @@ finishing nail\h
 finishing school\h
 finish\ViN
 Finisterre\N
-Finist\8Fre\N
+Finistère\N
 Finist\N
 finis\N
 finite intersection property\h
@@ -70438,8 +70438,8 @@ flamboyance\N
 flamboyancy\N
 flamboyantly\v
 flamboyant\AN
-flamb\8E glaze\h
-flamb\8E\A
+flambé glaze\h
+flambé\A
 flamb\A
 flame azalea\h
 flame cell\h
@@ -71192,7 +71192,7 @@ Florey\N
 Flore\N
 Florianolis\N
 Floriano\N
-Florian\97polis\N
+Florianópolis\N
 Florian\N
 floriated\A
 Floria\N
@@ -71242,7 +71242,7 @@ floruit\V
 flory counter-flory\h
 flory\A
 Flory\N
-Flor\8Eal\N
+Floréal\N
 Flor\N
 flor\N
 flos ferri\h
@@ -71634,14 +71634,14 @@ flyway\N
 flyweight\N
 flywheel\N
 fly\VitNA
-fl\89nerie\N
-fl\89neurs\p
-fl\89neur\N
-fl\8Echettes\p
-fl\8Echette\N
-fl\8Fches d'amour\h
-fl\8Fche\N
-Fl\9Fgelhorn\N
+flânerie\N
+flâneurs\p
+flâneur\N
+fléchettes\p
+fléchette\N
+flèches d'amour\h
+flèche\N
+Flügelhorn\N
 fl\N
 Fl\N
 FM cyclotron\h
@@ -71802,7 +71802,7 @@ folia\N
 folic acid\h
 folic\A
 folie de grandeur\h
-folie \88 deux\h
+folie à deux\h
 folies\p
 folie\N
 foliicolous\A
@@ -72488,7 +72488,7 @@ forlorn hope\h
 forlornly\v
 forlornness\N
 forlorn\A
-Forl\93\N
+Forlì\N
 Forl\N
 form class\h
 form drag\h
@@ -72605,7 +72605,7 @@ formylate\t
 formylating\t
 formylation\N
 formyl\N
-form\8Ee\A
+formée\A
 Form\N
 form\NVt
 Fornacalia\N
@@ -72882,8 +72882,8 @@ Foucault pendulum\h
 Foucault\N
 Foucquet\N
 foudroyant\A
-fouett\8Es\p
-fouett\8E\N
+fouettés\p
+fouetté\N
 fouett\N
 Fougere\N
 foughten\A
@@ -72947,7 +72947,7 @@ Fount\N
 fount\N
 Fouquet\N
 Fouquier-Tinville\N
-Fouqu\8E\N
+Fouqué\N
 Fouqu\N
 four bits\h
 four flush\hV
@@ -72999,7 +72999,7 @@ four-wheeler\N
 four-wheel\A
 fourbagger\N
 fourchette\N
-fourch\8E\A
+fourché\A
 Fourdrinier\N
 fourflusher\N
 fourfold block\h
@@ -73019,8 +73019,8 @@ Fournier\N
 fourpence\N
 fourpenny\A
 fourposter\N
-fourrag\8Fres\p
-fourrag\8Fre\N
+fourragères\p
+fourragère\N
 fourrag\N
 fourscore\D
 foursome\N
@@ -73130,8 +73130,8 @@ fozier\A
 foziest\A
 foziness\N
 fozy\A
-Fo\95sm\N
-Fo\95st\N
+Foïsm\N
+Foïst\N
 FO\N
 fo\N
 Fo\N
@@ -73260,7 +73260,7 @@ Francesca\N
 Francesco\N
 Frances\N
 France\N
-Franche-Comt\8E\N
+Franche-Comté\N
 Franche-Comt\N
 franchise clause\h
 franchised\V
@@ -73292,7 +73292,7 @@ Francklyn\N
 Franckot\N
 Franck\N
 Franco-Belgian system\h
-Franco-Proven\8Dal\N
+Franco-Provençal\N
 Franco-Prussian War\h
 Francoise\N
 Francoism\N
@@ -73375,12 +73375,12 @@ Franza\N
 Franzen\N
 Franzoni\N
 Franz\N
-Fran\8Daix\N
-Fran\8Dois Vase\h
+Françaix\N
+François Vase\h
 Fran\N
 frapped\t
 frapping\t
-frapp\8E\NA
+frappé\NA
 frapp\N
 frap\V
 Frascati\N
@@ -73722,7 +73722,7 @@ freightless\A
 freightliner\N
 freight\Nt
 Freiman\N
-Freisch\9Ftz Der\h
+Freischütz Der\h
 Frei\N
 Freki and Geri\h
 Frelinghuysen\N
@@ -73990,7 +73990,7 @@ Friede\N
 Friedlander\N
 Friedland\N
 Friedly\N
-Friedl\8Ander's bacillus\h
+Friedländer's bacillus\h
 Friedman\N
 Friedrich\N
 Friedrick\N
@@ -74097,7 +74097,7 @@ frisk\itN
 Frissell\N
 Frisse\N
 frisson\N
-fris\8E\N
+frisé\N
 fris\N
 Fris\N
 frit fly\h
@@ -74473,11 +74473,11 @@ frying\V
 Frymire\N
 Fry\N
 fry\ViNp
-Fr\8Aulein\Np
-Fr\8Echette\N
-Fr\8Echet\N
-Fr\8Emont\N
-fr\8Fre\N
+Fräulein\Np
+Fréchette\N
+Fréchet\N
+Frémont\N
+frère\N
 fr\N
 Fr\N
 FR\N
@@ -74760,7 +74760,7 @@ fumitories\p
 fumitory\N
 fumulus\p
 fumy\A
-fum\8E\A
+fumé\A
 fun fair\h
 fun house\h
 funambulism\N
@@ -75121,14 +75121,14 @@ Fyodor\N
 fyrd\N
 fytte\N
 Fyzabad\N
-F\87tima\N
-F\8Enelon\N
-F\8Evrier\N
-F\91dor\N
-f\9Ahn\N
-F\9Fhrer\N
-F\9Fnfkirchen\N
-F\9Frth\N
+Fátima\N
+Fénelon\N
+Février\N
+Fëdor\N
+föhn\N
+Führer\N
+Fünfkirchen\N
+Fürth\N
 f\N
 F\N
 G clef\h
@@ -75216,7 +75216,7 @@ Gabrilowitsch\N
 Gabun\N
 Gaby\N
 gaby\N
-Gab\8Fs\N
+Gabès\N
 Gab\N
 gab\VN
 gadabout\N
@@ -75644,7 +75644,7 @@ galways\p
 Galway\N
 Galwegian\NA
 galyak\N
-Gal\87pagos Islands\h
+Galápagos Islands\h
 Gal\N
 gal\N
 gama grass\h
@@ -75934,8 +75934,8 @@ Garceau\N
 Garcia\N
 garcon\N
 Garcon\N
-Garc\92a Lorca\h
-Garc\92a Moreno\h
+García Lorca\h
+García Moreno\h
 Gardal\N
 gardant\A
 Gardas\N
@@ -76148,9 +76148,9 @@ Garwin\N
 Garwood\N
 Gary\N
 Garzon\N
-gar\8Dons\p
-gar\8Don\N
-gar\9Ca\N
+garçons\p
+garçon\N
+garúa\N
 Gar\N
 GAR\N
 gar\N
@@ -76262,7 +76262,7 @@ Gasper\N
 gasper\N
 gaspingly\v
 Gaspinsula\N
-Gasp\8E Peninsula\h
+Gaspé Peninsula\h
 gasp\itN
 gassed\V
 Gassendi\N
@@ -76280,7 +76280,7 @@ Gasterocheires\p
 gasteropod\NA
 gaster\N
 gasthaus\N
-gasth\8Auser\p
+gasthäuser\p
 gastightness\N
 gastight\A
 Gastineau\N
@@ -76426,7 +76426,7 @@ gaudies\p
 gaudily\v
 gaudiness\N
 gaudy\AN
-Gaud\92 i Cornet\h
+Gaudí i Cornet\h
 gaud\N
 Gaud\N
 gauffering\N
@@ -76681,7 +76681,7 @@ Gefell\N
 Gefen\N
 Geffner\N
 gefilte fish\h
-gef\9Fllte fish\h
+gefüllte fish\h
 gegenion\N
 gegenschein\N
 Gehenna\N
@@ -76693,8 +76693,8 @@ Gehrig\N
 Geibel\N
 Geier\N
 Geiger counter\h
-Geiger-M\9Fller threshold\h
-Geiger-M\9Fller tube\h
+Geiger-Müller threshold\h
+Geiger-Müller tube\h
 Geiger\N
 Geikie\N
 Geilich\N
@@ -76771,9 +76771,9 @@ Gelsenkirchen\N
 gelt\VN
 Gelugpa\N
 Gelya\N
-gel\8Andel\8Aufer\N
-gel\8Andesprung\N
-Gel\8Ee\N
+geländeläufer\N
+geländesprung\N
+Gelée\N
 Gel\N
 gel\NV
 gem jade\h
@@ -76842,8 +76842,8 @@ gemsbuck\N
 gemses\p
 gemstone\N
 gems\N
-Gem\9Ftlichkeit\N
-gem\9Ftlich\A
+Gemütlichkeit\N
+gemütlich\A
 gem\NV
 gen up\V
 genae\p
@@ -77138,8 +77138,8 @@ genuine\A
 genupectoral\A
 genus\N
 genu\N
-Gen\8Fve\N
-Gen\90t\N
+Genève\N
+Genêt\N
 Gen\N
 gen\N
 geo-navigation\N
@@ -77638,7 +77638,7 @@ ghain\N
 Ghanaian\NA
 Ghana\N
 Ghanian\NA
-Gharda\95a\N
+Ghardaïa\N
 gharial\N
 gharries\p
 gharry\N
@@ -78311,9 +78311,9 @@ glaciologist\N
 glaciology\N
 glacis\N
 Glackens\N
-glac\8Eed\V
-glac\8Eing\V
-glac\8E\At
+glacéed\V
+glacéing\V
+glacé\At
 glad eye\h
 glad hand\hV
 glad rags\h
@@ -78655,7 +78655,7 @@ glitter\iN
 Glitz\N
 Glivare\N
 Gliwice\N
-Gli\8Fre\N
+Glière\N
 gloaming\N
 gloam\N
 gloater\N
@@ -79352,8 +79352,8 @@ going\NA
 goiter\N
 goitre\N
 goitrous\A
-Goi\87s\N
-Goi\89nia\N
+Goiás\N
+Goiânia\N
 goi\N
 Gokey\N
 Golanka\N
@@ -79606,7 +79606,7 @@ Gonaives\N
 gonangial\A
 gonangium\N
 Gonave\N
-Gona\95ves\N
+Gonaïves\N
 Gona\N
 Goncharov\N
 Goncourt\N
@@ -79694,7 +79694,7 @@ Gonzales\N
 Gonzalez\N
 Gonzalo\N
 Gonzlez\N
-Gon\8Dalves Dias\h
+Gonçalves Dias\h
 goo-goo eyes\h
 goober\N
 Gooch\N
@@ -80096,7 +80096,7 @@ goutily\v
 goutiness\N
 goutish\A
 goutte\N
-goutt\8E\A
+goutté\A
 goutweed\N
 gouty stool\h
 gouty\A
@@ -80145,7 +80145,7 @@ Goyen\N
 goyim\p
 goyish\A
 goy\N
-go\9Et\N
+goût\N
 GO\N
 go\NVt
 gpad\N
@@ -80420,7 +80420,7 @@ grand piano\h
 Grand Prairie\h
 grand prix\h
 Grand Prix\h
-Grand Pr\8E\h
+Grand Pré\h
 Grand Pr\h
 grand quarter\h
 Grand Rapids\h
@@ -80775,7 +80775,7 @@ gratulatorily\v
 gratulatory\A
 Graubden\N
 Graubert\N
-Graub\9Fnden\N
+Graubünden\N
 graupel\N
 Graustarkian\A
 Graustark\N
@@ -80866,7 +80866,7 @@ gravure\N
 gravy boat\h
 gravy train\h
 gravy\N
-grav\BEing\t
+gravæing\t
 grav\N
 gray birch\h
 gray body\h
@@ -81519,7 +81519,7 @@ grille\N
 Grillparzer\N
 grillroom\N
 grillwork\N
-grill\8E\A
+grillé\A
 grill\VtN
 grilse\N
 Grim Reaper\h
@@ -81695,7 +81695,7 @@ Grodin\N
 Grodno\N
 Groenendael\N
 Groete\N
-Grof\8E\N
+Grofé\N
 Grof\N
 grog lifter\h
 Grogan\N
@@ -81714,7 +81714,7 @@ groining\N
 groin\Nt
 grok\V
 Groland\N
-Grolier de Servi\8Fres\h
+Grolier de Servières\h
 Grolier\A
 groma\N
 grommet\N
@@ -82080,12 +82080,12 @@ Grussing\N
 Grus\N
 grutch\Nti
 Gruver\N
-Gruy\8Fre\N
+Gruyère\N
 Grynaeus\N
 gryphon\N
 grysbok\N
-Gr\8Etry\N
-Gr\9Fnewald\N
+Grétry\N
+Grünewald\N
 Gr\N
 gr\N
 GR\N
@@ -82147,10 +82147,10 @@ guanine\N
 guanosine\N
 guano\N
 Guantnamo\N
-Guant\87namo Bay\h
-Guant\87namo\N
+Guantánamo Bay\h
+Guantánamo\N
 guan\N
-Guapor\8E\N
+Guaporé\N
 Guapor\N
 guarachas\p
 guaracha\N
@@ -82170,9 +82170,9 @@ guaranties\p
 guarantor\N
 guarantying\p
 guaranty\NV
-Guaran\92es\p
-Guaran\92s\p
-Guaran\92\N
+Guaraníes\p
+Guaranís\p
+Guaraní\N
 guard band\h
 guard cell\h
 guard duty\h
@@ -82277,7 +82277,7 @@ Guernsey lily\h
 Guernseys\p
 Guernsey\N
 Guerra\N
-guerre \88 outrance\h
+guerre à outrance\h
 Guerrero\N
 guerrillaism\N
 guerrilla\N
@@ -82390,7 +82390,7 @@ guillotine shears\h
 guillotined\V
 guillotine\NVt
 guillotining\V
-Guill\8En\N
+Guillén\N
 guiltier\A
 guiltiest\A
 guiltily\v
@@ -82731,7 +82731,7 @@ Guthrey\N
 Guthrie\N
 Guthrun\N
 Guthry\N
-Guti\8Errez N\87jera\h
+Gutiérrez Nájera\h
 gutless\A
 gutlike\A
 Gutow\N
@@ -82778,7 +82778,7 @@ gutturalness\N
 guttural\AN
 gutturonasal\AN
 gutty\N
-gutt\8E\A
+gutté\A
 Gut\N
 gut\Nt
 guv\N
@@ -82795,13 +82795,13 @@ Guy\N
 guy\Nt
 Guzel\N
 Guzmco\N
-Guzm\87n\N
+Guzmán\N
 guzzled\it
 guzzler\N
 guzzle\V
 guzzling\it
-gu\8Erites\p
-gu\8Erite\N
+guérites\p
+guérite\N
 gu\N
 gv\N
 Gwalior\N
@@ -82841,7 +82841,7 @@ gybing\it
 Gygaea\N
 Gyges\N
 Gyimah\N
-Gyld\8En\N
+Gyldén\N
 Gylys\N
 gym shoe\h
 gym suit\h
@@ -83018,29 +83018,29 @@ gyttja\N
 gyve\tN
 Gy\N
 Gza\N
-G\87g\N
-G\8Artner\N
-G\8Avle\N
-G\8En\8Etrix\N
-G\8Erard\N
-G\8Ericault\N
-G\8Er\99me\N
-G\97mez\N
-G\97ngora y Argote\h
-G\99a\N
-G\9Adel\N
-G\9Aring\h
-G\9Arlitz\N
-G\9Arz\h
-G\9Ateborg\N
-g\9Athite\N
-G\9Atterd\8Ammerung\N
-G\9Attingen\N
-G\9Atz\N
-G\9Firaldes\N
-G\9Flek Bogaz\h
-G\9Fnzian\A
-G\9Fnz\N
+Gág\N
+Gärtner\N
+Gävle\N
+Génétrix\N
+Gérard\N
+Géricault\N
+Gérôme\N
+Gómez\N
+Góngora y Argote\h
+Gôa\N
+Gödel\N
+Göring\h
+Görlitz\N
+Görz\h
+Göteborg\N
+göthite\N
+Götterdämmerung\N
+Göttingen\N
+Götz\N
+Güiraldes\N
+Gülek Bogaz\h
+Günzian\A
+Günz\N
 g\N
 G\N
 H CoN Res\h
@@ -83124,8 +83124,8 @@ habitude\N
 habitudinal\A
 habitue\N
 habitus\N
-habitu\8Es\p
-habitu\8E\N
+habitués\p
+habitué\N
 habit\Nt
 haboob\N
 Habsburg\N
@@ -84374,7 +84374,7 @@ halving\t
 Halvy\N
 halyard\N
 Halysites\N
-Hal\8Evy\N
+Halévy\N
 Hal\N
 ham-handed\A
 Hamachi\N
@@ -84445,7 +84445,7 @@ Hamlin\N
 hamli\p
 Hammad\N
 hammal\N
-Hammarskj\9Ald\N
+Hammarskjöld\N
 Hammarskj\N
 hammed\V
 Hammel\N
@@ -85172,7 +85172,7 @@ harmony\N
 Harmony\N
 Harmon\N
 harmost\N
-Harmotho\91\N
+Harmothoë\N
 harmotome\N
 harmotomic\A
 Harmsworth\N
@@ -85588,12 +85588,12 @@ Haute-Marne\N
 Haute-Normandie\N
 haute-piece\N
 Haute-Savoie\N
-Haute-Sa\99ne\N
+Haute-Saône\N
 Haute-Sa\N
 Haute-Vienne\N
 Hautes-Alpes\N
 Hautes-Pyrn\N
-Hautes-Pyr\8En\8Ees\N
+Hautes-Pyrénées\N
 hauteur\N
 Hauts-de-Seine\N
 Hau\N
@@ -85796,7 +85796,7 @@ Hazlip\N
 Hazlitt\N
 hazy\A
 hazzan\N
-ha\9Fynite\N
+haüynite\N
 ha\!
 Ha\N
 Hbert\N
@@ -86764,7 +86764,7 @@ Helse\N
 Helsie\N
 Helsingborg\N
 Helsingo\N
-Helsing\9Ar\N
+Helsingör\N
 Helsinki\N
 helter-skelter\AN
 helterskelteriness\N
@@ -86779,7 +86779,7 @@ Helve\N
 helve\Nt
 helving\V
 Helvtius\N
-Helv\8Etius\N
+Helvétius\N
 Helyne\N
 Helyn\N
 Hel\N
@@ -87438,7 +87438,7 @@ herniorrhaphy\N
 herniotomies\p
 herniotomy\N
 hernshaw\N
-Hern\87ndez\N
+Hernández\N
 hern\N
 hero sandwich\h
 hero worship\hV
@@ -87500,7 +87500,7 @@ herquein\N
 Herrah\N
 Herra\N
 Herrenvolk\N
-Herrenv\9Alker\p
+Herrenvölker\p
 Herren\p
 Herrera\N
 Herrick\N
@@ -89098,7 +89098,7 @@ Holey\N
 Hole\N
 hole\NV
 Holger Nielsen method\h
-Holgu\92n\N
+Holguín\N
 Holgu\N
 holibut\p
 holiday camp\h
@@ -90676,7 +90676,7 @@ HP\N
 hp\N
 HQ\N
 Hradec Krlov\h
-Hradec Kr\87lov\8E\h
+Hradec Králové\h
 Hrault\N
 Hrdlicka\N
 Hreidmar\N
@@ -90696,9 +90696,9 @@ Hsiang\N
 Hsian\N
 Hsia\N
 hsien\Np
-Hsin Hs\9Feh\h
+Hsin Hsüeh\h
 Hsin-hai-lien\N
-hsing sh\90ng\h
+hsing shêng\h
 Hsingan\N
 Hsingborg\N
 Hsining\N
@@ -90706,9 +90706,9 @@ Hsinking\N
 Hsi\N
 HSM\N
 Hsu\N
-Hs\9Fan Chiao\h
-Hs\9Fan T'ung\h
-Hs\9Fan Tsung\h
+Hsüan Chiao\h
+Hsüan T'ung\h
+Hsüan Tsung\h
 hs\N
 HS\N
 Hs\N
@@ -91100,7 +91100,7 @@ hund\N
 Huneker\N
 Hunfredo\N
 hung jury\h
-Hung Lou M\90ng\h
+Hung Lou Mêng\h
 Hungarian brome grass\h
 Hungarian goulash\h
 Hungarian lilac\h
@@ -91350,9 +91350,9 @@ Huygens principle\h
 Huygens\N
 Huysmans\N
 huzzah\!NV
-Hu\87nuco\N
-Hu\87scar\N
-Hu\8E\N
+Huánuco\N
+Huáscar\N
+Hué\N
 Hu\N
 HV\N
 Hwang Hai\h
@@ -92786,19 +92786,19 @@ hythergraph\N
 hyzone\N
 hy\N
 Hy\N
-H\87ba\N
-H\87ry J\87nos\h
-H\8Elo\95se\N
-H\8Emon\N
-H\8Erault\N
-H\8Erbert\N
-H\8Erold\N
-H\97dmezov\87s\87rhely\N
-H\99tel des Invalides\h
-H\9Alder condition\h
-H\9Alderlin\N
-H\9Fgel\N
-H\9Fther\N
+Hába\N
+Háry János\h
+Héloïse\N
+Hémon\N
+Hérault\N
+Hérbert\N
+Hérold\N
+Hódmezovásárhely\N
+Hôtel des Invalides\h
+Hölder condition\h
+Hölderlin\N
+Hügel\N
+Hüther\N
 H\N
 h\N
 I Ching\h
@@ -92899,7 +92899,7 @@ Ibsen\N
 Ibson\N
 IBTCWH\N
 Ibycus\N
-Ib\87\96ez\N
+Ibáñez\N
 ib\N
 Ib\N
 ICAAAA\N
@@ -93363,7 +93363,7 @@ idyllic\A
 idyllist\N
 idyll\N
 Idzik\N
-id\8Ee fixe\h
+idée fixe\h
 id\N
 ID\N
 Id\N
@@ -93463,8 +93463,8 @@ Iguac\N
 iguana\NA
 iguanid\NA
 iguanodon\N
-Iguass\9C Falls\h
-Iguass\9C\N
+Iguassú Falls\h
+Iguassú\N
 IGY\N
 IG\N
 Ihab\N
@@ -93527,7 +93527,7 @@ ileus\N
 ilex\N
 Ilford\N
 ILGWU\N
-Ilh\8Eus\N
+Ilhéus\N
 iliac artery\h
 iliac\A
 Iliadic\A
@@ -93753,7 +93753,7 @@ Illyria\N
 Illyricum\N
 Illyrius\N
 illy\v
-Ill\92a\N
+Illía\N
 ill\ANv
 Ill\N
 Ilmarinen\N
@@ -96668,8 +96668,8 @@ ingurgitation\N
 Ingush\N
 Ingvar\N
 Ingveonic\A
-ing\8Enues\p
-ing\8Enue\N
+ingénues\p
+ingénue\N
 Ing\N
 inhabitability\N
 inhabitable\A
@@ -99481,7 +99481,7 @@ inwreathing\t
 inwrought\A
 inyala\N
 Iny\N
-In\9An\9F\N
+Inönü\N
 In\N
 in\PvAN
 Io moth\h
@@ -99595,7 +99595,7 @@ Iphigenia in Tauris\h
 Iphigeniah\N
 Iphigenia\N
 Iphimedia\N
-Iphino\91\N
+Iphinoë\N
 Iphis\N
 Iphition\N
 Iphitus\N
@@ -100525,7 +100525,7 @@ istle\N
 Istrian\AN
 Istria\NA
 Isus\N
-Is\8Fre\N
+Isère\N
 Is\N
 is\V
 it'll\N
@@ -100534,7 +100534,7 @@ Itabuna\N
 itacolumite\N
 itaconic acid\h
 Itagaki\N
-Itaja\92\N
+Itajaí\N
 Italia irredenta\h
 Italian aster\h
 Italian clover\h
@@ -100754,7 +100754,7 @@ Izzak\N
 izzard\N
 Izzy\N
 Iz\N
-I\8Da\N
+Iça\N
 i\N
 I\r
 j'adoube\!
@@ -101299,7 +101299,7 @@ Janus\N
 Janys\N
 Janyte\N
 Jany\N
-Jan\87cek\N
+Janácek\N
 Jan\N
 Japan cedar\h
 Japan clover\h
@@ -101367,7 +101367,7 @@ japing\V
 Japn\N
 japonica\N
 Japonism\N
-Japur\87\N
+Japurá\N
 Japur\N
 japygid\N
 Jap\NA
@@ -101477,7 +101477,7 @@ Jaspers\N
 jaspery\A
 jasper\N
 Jasper\N
-jasp\8E\A
+jaspé\A
 jasp\A
 Jassy\N
 jass\N
@@ -101503,7 +101503,7 @@ jauntingly\v
 jaunty\A
 jaunt\Ni
 jaup\N
-Jaur\8Fs\N
+Jaurès\N
 Jaur\N
 Java black rot\h
 Java cotton\h
@@ -101580,8 +101580,8 @@ jazzman\N
 jazzmen\p
 jazzy\A
 jazz\Ni
-ja\8Dana\N
-Ja\8En\N
+jaçana\N
+Jaén\N
 JA\N
 Ja\N
 ja\v
@@ -101813,7 +101813,7 @@ Jepson\N
 Jepum\N
 jequirities\p
 jequirity\N
-Jequi\8E\N
+Jequié\N
 Jerad\N
 Jeraldine\N
 Jerald\N
@@ -101996,7 +101996,7 @@ jettison\tN
 jetton\N
 jettying\p
 jetty\NA
-jet\8E\N
+jeté\N
 JET\N
 jet\NV
 jeu d'esprit\h
@@ -102160,9 +102160,9 @@ jimply\v
 jimpness\N
 jimp\A
 jimson weed\h
-Jim\8Enez de Cisneros\h
-Jim\8Enez de Quesada\h
-Jim\8Enez\N
+Jiménez de Cisneros\h
+Jiménez de Quesada\h
+Jiménez\N
 jim\N
 Jim\N
 jingal\N
@@ -102629,7 +102629,7 @@ Jordan arc\h
 Jordan curve theorem\h
 Jordan curve\h
 Jordan engine\h
-Jordan-H\9Alder theorem\h
+Jordan-Hölder theorem\h
 Jordana\N
 Jordanna\N
 Jordanson\N
@@ -102695,7 +102695,7 @@ Josi\N
 joskin\N
 Josler\N
 Joslyn\N
-Josquin des Pr\8Es\h
+Josquin des Prés\h
 Josquin des Pr\h
 joss house\h
 joss stick\h
@@ -102816,7 +102816,7 @@ joyride\N
 Joy\N
 joy\Nit
 Jozef\N
-Jo\8Bo Pessoa\h
+João Pessoa\h
 Jo\N
 jo\N
 JP\N
@@ -102827,7 +102827,7 @@ Juan Carlos I\h
 Juan de Fuca\h
 Juan de la Cruz\h
 Juan Ferndez Islands\p
-Juan Fern\87ndez\h
+Juan Fernández\h
 Juana\N
 Juanita\N
 Juanne\N
@@ -103256,7 +103256,7 @@ juristic\A
 jurist\N
 Jurkoic\N
 juror\N
-Juru\87\N
+Juruá\N
 Juru\N
 jury box\h
 jury list\h
@@ -103390,16 +103390,16 @@ juxtapose\t
 juxtaposing\t
 juxtapositional\A
 juxtaposition\N
-Ju\87rez\N
+Juárez\N
 Ju\N
 JV\N
 JWV\N
 Jylland\N
 Jymmye\N
 Jy\N
-J\8Er\8Emie\N
-J\9Ank\9Aping\N
-J\9Fnger\N
+Jérémie\N
+Jönköping\N
+Jünger\N
 J\N
 j\N
 K of C\h
@@ -103407,7 +103407,7 @@ K of P\h
 K ration\h
 k'ai shu\h
 K'ang Hsi\h
-K'ang T\90\h
+K'ang Tê\h
 K'ang-te\N
 K'ung Ch'iu\h
 K'ung Fu-tse\h
@@ -103492,7 +103492,7 @@ Kahaleel\N
 Kahler\N
 Kahle\N
 Kahlil\N
-Kahl\9Ca\N
+Kahlúa\N
 Kahl\N
 Kahn\N
 Kahoolawe\N
@@ -104085,7 +104085,7 @@ Katzen\N
 Katzir\N
 Katzman\N
 Katz\N
-kat\87r\N
+katár\N
 kat\N
 Kauai\N
 kauch\N
@@ -104115,7 +104115,7 @@ kaver\N
 Kavir Desert\h
 Kavita\N
 Kavla\N
-Kav\87lla\N
+Kaválla\N
 Kawaguchi\N
 Kawai\N
 Kawasaki\N
@@ -104201,7 +104201,7 @@ keckling\N
 kecksies\p
 kecksy\N
 keck\iN
-Kecskem\8Et\N
+Kecskemét\N
 Kecskem\N
 Kedah\N
 Kedarite\NA
@@ -104318,8 +104318,8 @@ Keizer\N
 Kei\N
 Kekkonen\N
 Kekulmula\N
-Kekul\8E von Stradonitz\h
-Kekul\8E's formula\h
+Kekulé von Stradonitz\h
+Kekulé's formula\h
 Kelantan\N
 Kela\N
 Kelbee\N
@@ -104397,7 +104397,7 @@ Kelwen\N
 Kelwin\N
 Kelwunn\N
 Kel\N
-Kemal Atat\9Frk\h
+Kemal Atatürk\h
 Kemal Atat\hA
 Kemalism\N
 Kemalist\NA
@@ -104850,7 +104850,7 @@ Khatti\N
 Khattusas\N
 khat\N
 khayal\N
-Khayy\87m\N
+Khayyám\N
 Khayy\N
 kha\N
 kheda\N
@@ -104895,7 +104895,7 @@ Khuzistan\N
 Khyber knife\h
 Khyber Pass\h
 kHz\N
-Kh\8Akass Autonomous Region\h
+Khäkass Autonomous Region\h
 Ki Tse\h
 kiaat\N
 kiabooca wood\h
@@ -105645,7 +105645,7 @@ Kizzee\N
 Kizzie\N
 Ki\N
 Kjersti\N
-Kj\9Alen\N
+Kjölen\N
 kJ\N
 KKK\N
 KKtP\N
@@ -105681,7 +105681,7 @@ Klayman\N
 Klber\N
 kleagle\N
 Klebs-Lfler bacillus\h
-Klebs-L\9Affler bacillus\h
+Klebs-Löffler bacillus\h
 klebsiella\N
 Klebs\N
 Klecka\N
@@ -105756,8 +105756,8 @@ klutz\N
 Klydonograph\N
 klystron\N
 Klystron\N
-Kl\8Eber\N
-kl\9Asse\N
+Kléber\N
+klösse\N
 kl\N
 km/sec\h
 kMc\N
@@ -106026,7 +106026,7 @@ Knute\N
 Knuth\N
 Knutson\N
 Knut\N
-kn\8Ackebr\9Ad\N
+knäckebröd\N
 kn\N
 KO's\p
 ko-katana\N
@@ -106061,7 +106061,7 @@ Kodiak bear\h
 Kodiak\N
 kodogu\N
 Kodok\N
-Kod\87ly\N
+Kodály\N
 Koehler\N
 koel\N
 Koenig\N
@@ -106144,7 +106144,7 @@ Kolomna\N
 Kolosick\N
 Koloski\N
 kolos\p
-Kolozsv\87r\N
+Kolozsvár\N
 Kolozsv\N
 kolo\N
 Kolva\N
@@ -106383,7 +106383,7 @@ Krakau\N
 kraken\N
 krakowiak\N
 Krakow\N
-Krak\97w\N
+Kraków\N
 Krak\N
 Krall\N
 Kramatorsk\N
@@ -106554,8 +106554,8 @@ Krystin\N
 Krystle\N
 Krystyna\N
 Krys\N
-Kr\97lewska Huta\h
-kr\97na\N
+Królewska Huta\h
+króna\N
 KR\N
 Kr\N
 kr\N
@@ -106577,7 +106577,7 @@ Kuantan\N
 Kubango\N
 Kuban\N
 Kubelik\N
-Kubel\92k\N
+Kubelík\N
 Kubetz\N
 Kubiak\N
 Kubis\N
@@ -106834,16 +106834,16 @@ kyu\N
 Kyzyl Kum\h
 Kyzyl\N
 Ky\N
-K\8Ase\h
-K\8Astner\N
-K\9Abenhavn\N
-K\9Ahler\N
-K\9Aln\N
-K\9Aniggr\8Atz\N
-K\9Anigsberg\N
-K\9Anigsh\9Ftte\N
-k\9Fmmel\N
-k\9Frsch\N
+Käse\h
+Kästner\N
+Köbenhavn\N
+Köhler\N
+Köln\N
+Königgrätz\N
+Königsberg\N
+Königshütte\N
+kümmel\N
+kürsch\N
 k\N
 K\N
 L bar\h
@@ -106853,7 +106853,7 @@ L Lat\h
 L sill\h
 L wave\h
 L'Allegro\N
-L'Apr\8Fs-midi d'un Faune\h
+L'Après-midi d'un Faune\h
 L'Aquila\N
 L'Avare\N
 L'Enfant\N
@@ -106865,9 +106865,9 @@ L'Immoraliste\N
 l'istesso tempo\h
 L'Otage\N
 L'Ouverture\N
-l'\8Etat c'est moi\h
-l'\8Etoile du nord\h
-L'\94le de Pingouins\h
+l'état c'est moi\h
+l'étoile du nord\h
+L'île de Pingouins\h
 l-arterenol\N
 L-D converter\h
 L-dopa\N
@@ -106880,17 +106880,17 @@ L-series\N
 L-shell\N
 L/C\h
 l/w\h
-La Boh\8Fme\h
-La Bruy\8Fre\h
+La Bohème\h
+La Bruyère\h
 La Bruy\h
 La Ceiba\h
 La Celestina\h
 La Chaise\h
 La Chute\h
-La Com\8Edie Humaine\h
+La Comédie Humaine\h
 La Condition Humaine\h
 La Coruna\h
-La Coru\96a\h
+La Coruña\h
 La Crescent\h
 La Crosse\h
 La Cumbre\h
@@ -106909,13 +106909,13 @@ La Guardia\h
 La Habra\h
 La Hogue\h
 La Lnea\h
-La L\92nea\h
+La Línea\h
 La Mancha\h
 La Manche\h
 La Mano Nera\h
 La Mesa\h
-La Naus\8Ee\h
-La Nouvelle H\8Elo\95se\h
+La Nausée\h
+La Nouvelle Héloïse\h
 La Palma\h
 La Paz\h
 La Peste\h
@@ -106923,7 +106923,7 @@ La Plata\h
 La Porte Etroite\h
 La Porte\h
 La Puente\h
-La P\8Erouse\h
+La Pérouse\h
 La Rioja\h
 La Rochefoucauld\h
 La Rochelle\h
@@ -106935,7 +106935,7 @@ La Tortue\h
 La Tour\h
 La Trappe\h
 La Traviata\h
-La T\8Fne\h
+La Tène\h
 La T\A
 La Verne\h
 la-di-da\AN
@@ -107394,7 +107394,7 @@ lagena\N
 lageniform\A
 lagen\N
 Lagerkvist\N
-Lagerl\9Af\N
+Lagerlöf\N
 Lagerl\N
 lager\N
 laggardly\vA
@@ -107529,7 +107529,7 @@ lakier\A
 lakiest\A
 lakin\N
 Lakin\N
-Lakm\8E\N
+Lakmé\N
 laksa\N
 Lakshadweep Islands\p
 Lakshmi\N
@@ -107738,7 +107738,7 @@ Lamson\N
 lamster\N
 Lamus\N
 Lamy's theorem\h
-lam\8E\N
+lamé\N
 Lam\N
 lam\NVti
 Lanae\N
@@ -107967,8 +107967,8 @@ Langland\N
 langlaufer\N
 langlauf\N
 Langley\N
-langl\8Aufers\p
-langl\8Aufer\p
+langläufers\p
+langläufer\p
 Langmuir\N
 Langobardic\NA
 Langobard\N
@@ -107987,7 +107987,7 @@ language arts\h
 language laboratory\h
 language\N
 langue d'oc\h
-langue d'o\95l\h
+langue d'oïl\h
 langue d'o\h
 langue de chat\h
 Languedocian\AN
@@ -108089,7 +108089,7 @@ Laoighis\N
 Laomedon\N
 Laon\N
 Laos\NA
-Laotho\91\N
+Laothoë\N
 Laotian\NA
 Laotze\N
 Lao\NA
@@ -108775,7 +108775,7 @@ lautenclavicymbal\N
 lauter tub\h
 Lauter\N
 Lautrec\N
-Lautr\8Eamont\N
+Lautréamont\N
 lauwine\N
 Laux\N
 Lauzon\N
@@ -109049,7 +109049,7 @@ Le Bateau Ivre\h
 Le Bourgeois Gentilhomme\h
 Le Bourget\h
 Le Carr\h
-Le Ch\89telier principle\h
+Le Châtelier principle\h
 Le Cid\h
 Le Corbusier\h
 Le Crac\h
@@ -109664,7 +109664,7 @@ legroom\N
 legume\N
 leguminous\A
 legumin\N
-Legu\92a\N
+Leguía\N
 legwork\N
 leg\NV
 Lehar\N
@@ -109679,7 +109679,7 @@ Lehmbruck\N
 Lehrer\N
 lehr\N
 lehua\N
-Leh\87r\N
+Lehár\N
 Leibman\N
 Leibnitz Mountains\p
 Leibnitzianism\N
@@ -109764,7 +109764,7 @@ Leman\N
 Lemar\N
 Lemass\N
 LeMay\N
-Lema\94tre\N
+Lemaître\N
 Lema\N
 Lemberg\N
 Lemcke\N
@@ -109775,7 +109775,7 @@ Lemkul\N
 lemma\N
 Lemmie\N
 lemming\N
-Lemmink\8Ainen\h
+Lemminkäinen\h
 Lemmuela\N
 Lemmueu\N
 Lemmy\N
@@ -109948,7 +109948,7 @@ Lenwood\N
 Lenz's law\h
 Lenzi\N
 Lenz\N
-Len\99tre\N
+Lenôtre\N
 Len\N
 Leo III\h
 Leo I\h
@@ -110094,14 +110094,14 @@ Leroy\N
 Lerwick\N
 Ler\N
 Les Cayes\h
-Les C\8Elibataires\h
+Les Célibataires\h
 Les Enfants Terribles\h
 Les Faux-Monnayeurs\h
 Les Gueux\h
 Les Halles\h
 Les Illuminations\h
 Les Liaisons Dangereuses\h
-Les Mis\8Erables\h
+Les Misérables\h
 Les Trois Mousquetaires\h
 Lesak\N
 Lesbian cymatium\h
@@ -110301,7 +110301,7 @@ leucosis\N
 leucosticte\N
 leucotaxine\N
 Leucothea\N
-Leucotho\91\N
+Leucothoë\N
 leucotic\A
 leucotome\N
 leucotomies\p
@@ -110548,8 +110548,8 @@ ley\N
 Ley\N
 leze majesty\h
 Lezlie\N
-Le\95tus\N
-Le\97n\N
+Leïtus\N
+León\N
 Le\N
 le\N
 lf\N
@@ -110567,13 +110567,13 @@ LHD\N
 Lhevinne\N
 LH\N
 lh\N
-Li Hs\9Feh\h
+Li Hsüeh\h
 Li Hung-chang\h
 Li Po\h
 Li Shih-min\h
 Li T'ai-po\h
 Li Tai Po\h
-Li Y\9Fan\h
+Li Yüan\h
 Li-sao\N
 liabilities\p
 liability insurance\h
@@ -111236,7 +111236,7 @@ limacon\N
 Limann\N
 Liman\N
 Limassol\N
-lima\8Don\N
+limaçon\N
 Lima\N
 limbate\A
 limbed\A
@@ -111365,7 +111365,7 @@ limp\iNA
 limuloid\AN
 limulus\N
 limy\A
-Lim\97n\N
+Limón\N
 Lim\N
 lin ft\h
 Lin Piao\h
@@ -111552,7 +111552,7 @@ lingam\N
 Lingayata\N
 Lingayat\N
 Lingayen Gulf\h
-Lingay\8En Gulf\h
+Lingayén Gulf\h
 linga\N
 lingcods\p
 lingcod\N
@@ -111615,7 +111615,7 @@ Linkoski\N
 Linkping\N
 links\p
 linkwork\N
-Link\9Aping\N
+Linköping\N
 Link\N
 link\NVt
 Linlithgow\N
@@ -111630,7 +111630,7 @@ linnet\N
 Linnet\N
 Linnhe\N
 Linnie\N
-Linn\8E\N
+Linné\N
 Linn\N
 linn\N
 lino tile\h
@@ -112155,8 +112155,8 @@ littoral\AN
 Littoria\N
 littrateur\N
 Littrow\N
-Littr\8E\N
-litt\8Erateurs\p
+Littré\N
+littérateurs\p
 Litt\N
 litui\p
 liturgical east\h
@@ -112288,7 +112288,7 @@ Livvie\N
 Livvi\N
 Livy\N
 Liv\N
-liw\89n\N
+liwân\N
 lixiviated\t
 lixiviate\t
 lixiviating\t
@@ -112309,7 +112309,7 @@ Lizzie\N
 lizzie\N
 Lizzy\N
 Liz\N
-Li\8Fge\N
+Liège\N
 li\N
 LI\N
 Li\N
@@ -112781,7 +112781,7 @@ logroller\N
 logrolling\N
 logroll\V
 Logrono\N
-Logro\96o\N
+Logroño\N
 logway\N
 logwood\N
 logy\A
@@ -112798,7 +112798,7 @@ loins\p
 loin\N
 Loir-et-Cher\N
 Loire-Atlantique\N
-Loire-Inf\8Erieure\N
+Loire-Inférieure\N
 Loiret\N
 Loire\N
 Loise\N
@@ -112856,7 +112856,7 @@ lomentum\N
 loment\N
 Lomond\N
 lomta\p
-Lom\8E\N
+Lomé\N
 Lom\N
 Lona\N
 London broil\h
@@ -113796,7 +113796,7 @@ lozenged\A
 lozenge\N
 lozengy\A
 Lozi\N
-Loz\8Fre\N
+Lozère\N
 Loz\N
 lo\!
 LPG\N
@@ -113824,7 +113824,7 @@ Ltd\N
 LTh\N
 Lt\N
 lt\N
-Lu Hs\9Fn\h
+Lu Hsün\h
 Lu-Wang school\h
 Lualaba\N
 Luana\N
@@ -114159,7 +114159,7 @@ luminously\v
 luminousness\N
 luminous\A
 lumisterol\N
-Lumi\8Fre\N
+Lumière\N
 lumme\!
 lummox\N
 lump sum\h
@@ -114271,7 +114271,7 @@ lunulate\A
 lunula\N
 Lunville\N
 luny\A
-Lun\8Eville\N
+Lunéville\N
 Luo\N
 Lupee\N
 Lupercalian\A
@@ -114318,7 +114318,7 @@ Lurlei\N
 Lurlene\N
 Lurline\N
 Lurton\N
-Lur\8Dat\N
+Lurçat\N
 lur\N
 Lusaka\N
 Lusatian\AN
@@ -114498,8 +114498,8 @@ lycosid\NA
 Lycotherses\N
 Lycurgus\N
 Lycus\N
-lyc\8Ees\p
-lyc\8Ee\N
+lycées\p
+lycée\N
 lyc\N
 Lyda\N
 Lydda\N
@@ -114699,25 +114699,25 @@ Ly\N
 ly\v
 Lzen\N
 Lzow-Holm Bay\h
-l\89t\N
-l\8Andlers\p
-l\8Andler\p
-L\8Eger\N
-L\8Eocadia\N
-L\8Eopoldville\N
-L\8Erida\N
-L\97pez de Ayala\h
-L\97pez de Legazpe\h
-L\97pez Mateos\h
-L\97pez y Fuentes\h
-L\97pez\N
-L\9Affler\N
-l\9Allingite\N
-L\9Annrot\N
-L\9Fbeck\N
-L\9Fbke\N
-L\9Fderitz\N
-L\9Ftzow-Holm Bay\h
+lât\N
+ländlers\p
+ländler\p
+Léger\N
+Léocadia\N
+Léopoldville\N
+Lérida\N
+López de Ayala\h
+López de Legazpe\h
+López Mateos\h
+López y Fuentes\h
+López\N
+Löffler\N
+löllingite\N
+Lönnrot\N
+Lübeck\N
+Lübke\N
+Lüderitz\N
+Lützow-Holm Bay\h
 L\N
 l\N
 M Agr\h
@@ -115891,8 +115891,8 @@ Male\N
 malfeasance\NA
 malformation\N
 malfunction\iN
-malgr\8E lui\h
-malgr\8E\P
+malgré lui\h
+malgré\P
 malgr\v
 Malherbe\N
 Malia\N
@@ -116485,7 +116485,7 @@ Manouch\N
 Mano\N
 manpower\N
 manque\N
-manqu\8E\A
+manqué\A
 Manresa\N
 manroot\N
 manrope\N
@@ -116507,7 +116507,7 @@ manstealing\N
 manstopper\N
 mansuetude\N
 Mansur\N
-Mans\9Era\N
+Mansûra\N
 Manta Bay\h
 mantapa\N
 mantas\p
@@ -116612,7 +116612,7 @@ manyplies\N
 many\DN
 manzanilla\N
 Manzoni\N
-Manz\9D\N
+Manzù\N
 Man\N
 man\N!VtA
 Mao Tse-tung\h
@@ -116660,7 +116660,7 @@ Maraj\N
 Marala\N
 Maraline\N
 maranatha\!
-Maranh\8Bo\N
+Maranhão\N
 Maranh\N
 Maranon\N
 marasca\N
@@ -116682,7 +116682,7 @@ marauding\A
 maraud\VN
 maravedis\p
 maravedi\N
-Mara\96\97n\N
+Marañón\N
 Mara\N
 mara\N
 marbelization\N
@@ -116942,7 +116942,7 @@ Maridel\N
 Marie Antoinette\h
 Marie Byrd Land\h
 Marie de France\h
-Marie de M\8Edicis\h
+Marie de Médicis\h
 Marie Galante\h
 Marie Louise\h
 Mariehamn\N
@@ -117231,7 +117231,7 @@ Marrin\N
 Marriott\N
 Marrissa\N
 Marris\N
-marrons glac\8Es\h
+marrons glacés\h
 marrons glac\p
 Marron\N
 marron\N
@@ -117327,7 +117327,7 @@ Martelle\N
 Martelli\N
 Martello tower\h
 Martell\N
-martel\8E\A
+martelé\A
 Martel\N
 martemper\t
 martensite\N
@@ -117416,8 +117416,8 @@ Martyr\N
 martyr\NV
 Marty\N
 Martz\N
-Mart\92nez Ruiz\h
-Mart\92\N
+Martínez Ruiz\h
+Martí\N
 mart\N
 Mart\N
 Marucci\N
@@ -117661,7 +117661,7 @@ Massoretic\A
 massotherapy\N
 Massys\N
 massy\A
-Mass\8Ena\N
+Masséna\N
 mass\N
 Mass\N
 mass\NV
@@ -117805,7 +117805,7 @@ matchwood\N
 match\NV
 mated\V
 Matejka\N
-matelass\8E\N
+matelassé\N
 matelass\A
 Matelda\N
 matelote\N
@@ -117896,8 +117896,8 @@ matiness\N
 mating\NV
 Matinicus boat\h
 matins\N
-matin\8Ee idol\h
-matin\8Ee\N
+matinée idol\h
+matinée\N
 matin\AN
 Matisse\N
 Matland\N
@@ -118031,7 +118031,7 @@ matzo meal\h
 matzoon\N
 matzoth\p
 matzo\N
-mat\8E\N
+maté\N
 Mat\N
 mat\NVAt
 Mau Mau\h
@@ -118139,7 +118139,7 @@ mawsie\N
 Mawson\N
 maw\N
 Max Mler\h
-Max M\9Fller\h
+Max Müller\h
 Maxama\N
 Maxantia\N
 Maxa\N
@@ -118203,7 +118203,7 @@ May fly\h
 May queen\h
 may tree\h
 May-day\A
-Mayag\9Fez\N
+Mayagüez\N
 Mayag\N
 Mayakovski\N
 mayan\A
@@ -118271,7 +118271,7 @@ mazal tov\h
 mazard\N
 mazarine\N
 Mazarin\N
-Mazatl\87n\N
+Mazatlán\N
 Mazatl\N
 Mazdaism\N
 Mazda\N
@@ -118701,7 +118701,7 @@ meddle\i
 meddlingly\v
 Medeah\N
 Medea\N
-Medell\92n\N
+Medellín\N
 Medell\N
 Medeus\N
 Mede\NA
@@ -119007,7 +119007,7 @@ meiwa kumquat\h
 Mei\N
 Mekhitarist\N
 Mekka\N
-Mekn\8Fs\N
+Meknès\N
 Mekn\N
 Mekong Delta\h
 Mekong\N
@@ -119140,7 +119140,7 @@ Melita\N
 Melitene\N
 Melitopol\N
 Melitta\N
-Meli\91\N
+Melië\N
 Meli\N
 Melkite\NA
 Mellar\N
@@ -119500,7 +119500,7 @@ menticide\N
 mentionable\A
 mentioner\N
 mention\tN
-mentonni\8Fres\p
+mentonnières\p
 Menton\N
 Mentor-on-the-Lake-Village\N
 mentorship\N
@@ -119515,7 +119515,7 @@ menuki\p
 menu\N
 menyie\N
 Menzies\N
-Men\8Endez de Avil\8Es\h
+Menéndez de Avilés\h
 men\N
 meow\i!
 mepacrine\N
@@ -119747,7 +119747,7 @@ meros\N
 Merovingian\AN
 Merow\N
 merozoite\N
-Mero\91\N
+Meroë\N
 Merras\N
 Merrell\N
 Merrel\N
@@ -120386,7 +120386,7 @@ met\V
 meum et tuum\h
 Meung\N
 Meunier\N
-meuni\8Fre\A
+meunière\A
 meuni\A
 Meurer\N
 Meuser\N
@@ -120554,7 +120554,7 @@ Michigan\N
 Michiko\N
 miching\i
 Michi\N
-Michoac\87n\N
+Michoacán\N
 Michoac\N
 Michol\N
 Michon\N
@@ -121410,7 +121410,7 @@ Minardi\N
 minareted\A
 minaret\N
 Minas Basin\h
-Minas de R\92otinto\h
+Minas de Ríotinto\h
 Minas Gerais\h
 minatory\A
 Mina\N
@@ -121579,7 +121579,7 @@ Minitrack\N
 minium\N
 miniver\N
 minivet\N
-Mini\8E ball\hA
+Minié ball\hA
 mini\AN
 Mini\N
 minkfishes\p
@@ -121762,7 +121762,7 @@ MIRV\N
 Miryam\N
 miry\A
 mirza\N
-Mir\97\N
+Miró\N
 mir\N
 Mir\N
 MIr\N
@@ -121996,7 +121996,7 @@ misdrawing\V
 misdrawn\V
 misdraw\V
 misdrew\V
-mise en sc\8Fne\h
+mise en scène\h
 misease\N
 misedit\t
 miseducated\t
@@ -122655,12 +122655,12 @@ mizzen\NA
 mizzled\Vit
 mizzle\VNi
 mizzling\Vit
-Mi\96o\N
-Mi\9Alnir\N
+Miño\N
+Miölnir\N
 mi\N
 MI\N
 Mjico\N
-Mj\9Alnir\N
+Mjölnir\N
 MJ\N
 mks units\p
 MKSA system\h
@@ -122831,7 +122831,7 @@ modernise\ti
 modernising\ti
 modernism\NA
 modernistic\A
-modernis\BEtically\v
+modernisætically\v
 modernities\p
 modernity\N
 modernization\N
@@ -122981,7 +122981,7 @@ Moina\N
 Moirai\p
 Moira\N
 moire\N
-moir\8E\A
+moiré\A
 moir\AN
 Moir\N
 Moises\N
@@ -123167,7 +123167,7 @@ momism\N
 Mommi\p
 Mommsen\N
 mommy\N
-Momp\97s\N
+Mompós\N
 momser\N
 Momuses\p
 Momus\N
@@ -123727,7 +123727,7 @@ Monteria\N
 monteros\p
 montero\N
 Monterrey\N
-Monter\92a\N
+Montería\N
 montes veneris\p
 Montespan\N
 Montesquieu\N
@@ -123759,7 +123759,7 @@ monticulous\A
 montilla\N
 Monti\N
 Montlucon\N
-Montlu\8Don\N
+Montluçon\N
 Montmartre\N
 montmorillonitic\A
 Montoursville\N
@@ -123966,7 +123966,7 @@ Moray Firth\h
 morays\p
 Moray\N
 moray\N
-Moraz\87n\N
+Morazán\N
 mora\N
 Mora\N
 morbid anatomy\h
@@ -124466,7 +124466,7 @@ mot\N
 moues\p
 moue\N
 mouflon\N
-mouill\8E\A
+mouillé\A
 mouill\A
 moujik\N
 Moukden\N
@@ -124521,7 +124521,7 @@ Mount Olive\h
 Mount Penn\h
 Mount Pleasant\h
 Mount Prospect\h
-Mount Pto\9Fs\h
+Mount Ptoüs\h
 Mount Rainier\h
 Mount Robson Park\h
 mountain ash\h
@@ -124652,7 +124652,7 @@ mouthwash\N
 mouthwatering\A
 mouthy\A
 mouth\NVti
-moutonn\8Ee\AN
+moutonnée\AN
 mouton\N
 Mou\N
 movability\N
@@ -124703,7 +124703,7 @@ moxieberries\p
 moxieberry\N
 moxie\N
 Moya\N
-moyen \89ge\h
+moyen âge\h
 Moyers\N
 Moyer\N
 Moynahan\N
@@ -124936,7 +124936,7 @@ mudslinging\N
 mudspringer\N
 mudstone\N
 mudsucker\N
-Mud\8Ejar\NA
+Mudéjar\NA
 mud\NV
 Mueller\N
 muenster\N
@@ -125013,7 +125013,7 @@ muley\AN
 mule\N
 Mulford\N
 mulga\N
-Mulhac\8En\N
+Mulhacén\N
 Mulhac\N
 Mulhouse\N
 muliebrity\N
@@ -125609,7 +125609,7 @@ music\N
 Musil\N
 musingly\v
 musing\VN
-musique concr\8Fte\h
+musique concrète\h
 musique concr\h
 musjid\N
 musk deer\h
@@ -126081,33 +126081,33 @@ My\N
 mzee\NA
 Mzi\N
 mzungu\N
-M\8Archen\N
-m\8Edaillon\N
-M\8Edoc\N
-M\8Ehul\N
-m\8Elanges\p
-m\8Elange\N
-M\8Emoires d'Outretombe\h
-M\8Erida\N
-m\8Eridienne\N
-m\8Eringued\i
-m\8Eringue\i
-m\8Eringuing\i
-m\8Esalliance\N
-m\8Etisses\p
-m\8Etisse\N
-m\8Etis\N
-m\8Ezair\N
-M\90ng-tzu\N
-M\9Anchengladbach\N
-M\9Arike\N
-M\9Assbauer effect\h
-M\9Assbauer\N
-M\9Asting\N
-M\9Flhausen\N
-M\9Fnchen-Gladbach\N
-M\9Fnchhausen\h
-M\9Fnch\N
+Märchen\N
+médaillon\N
+Médoc\N
+Méhul\N
+mélanges\p
+mélange\N
+Mémoires d'Outretombe\h
+Mérida\N
+méridienne\N
+méringued\i
+méringue\i
+méringuing\i
+mésalliance\N
+métisses\p
+métisse\N
+métis\N
+mézair\N
+Mêng-tzu\N
+Mönchengladbach\N
+Mörike\N
+Mössbauer effect\h
+Mössbauer\N
+Mösting\N
+Mülhausen\N
+München-Gladbach\N
+Münchhausen\h
+Münch\N
 M\N
 m\N
 N Eng\h
@@ -126952,8 +126952,8 @@ Nazimova\N
 nazir\N
 Nazi\NA
 Nazler\N
-na\95ve realist\h
-na\95vely\v
+naïve realist\h
+naïvely\v
 NA\N
 Na\N
 NBA\N
@@ -127537,7 +127537,7 @@ Neotropical\A
 neotype\N
 neoytterbium\N
 Neozoic\A
-neo\9Arthodox\A
+neoörthodox\A
 Neo\N
 Nepalese\AN
 Nepali\NA
@@ -127773,9 +127773,9 @@ Neuberger\N
 Neubrandenburg\N
 Neuburger\N
 Neuchtel\N
-Neuch\89tel\N
+Neuchâtel\N
 Neufchtel\N
-Neufch\89tel\N
+Neufchâtel\N
 Neufer\N
 Neuilly-sur-Seine\N
 Neuilly\N
@@ -128191,11 +128191,11 @@ next of kin\h
 next-door\vA
 next\AvP
 nexus\N
-Nex\9A\N
+Nexö\N
 Neysa\N
 Ney\N
-Nez Perc\8E War\h
-Nez Perc\8E\h
+Nez Percé War\h
+Nez Percé\h
 Nez Perc\h
 NFD\N
 NFL\N
@@ -128749,7 +128749,7 @@ Nis\N
 nit-picking\NA
 Nita\N
 nitchie\N
-Niter\97i\N
+Niterói\N
 Niter\N
 niter\N
 nitid\A
@@ -128844,7 +128844,7 @@ Niven\N
 niveous\A
 Nivernais\N
 Nivre\N
-Niv\99se\N
+Nivôse\N
 Niv\N
 nixer\N
 nixes\p
@@ -128856,7 +128856,7 @@ nizamate\N
 Nizam\N
 Nizhni Novgorod\h
 Nizhni Tagil\h
-Ni\96a\N
+Niña\N
 Ni\N
 NI\N
 Njord\N
@@ -130730,9 +130730,9 @@ noncounterfeit\A
 noncovetously\v
 noncovetousness\N
 noncovetous\A
-nonco\9Aperationist\N
-nonco\9Aperative\A
-nonco\9Aperator\N
+noncoöperationist\N
+noncoöperative\A
+noncoöperator\N
 noncranking\A
 noncreatively\v
 noncreativeness\N
@@ -136086,8 +136086,8 @@ Norbie\N
 Norby\N
 Nord-lais\N
 Nordau\N
-Nordenskj\9Ald Sea\h
-Nordenskj\9Ald\N
+Nordenskjöld Sea\h
+Nordenskjöld\N
 Nordenskj\N
 Nordgren\N
 Nordhausen\N
@@ -136183,7 +136183,7 @@ Norristown\N
 Norris\N
 Norri\N
 Norrkping\N
-Norrk\9Aping\N
+Norrköping\N
 Norrv\N
 Norry\N
 Norseman\N
@@ -136543,7 +136543,7 @@ noumenally\v
 noumenal\A
 noumenona\p
 noumenon\NA
-Noum\8Ea\N
+Nouméa\N
 noun phrase\h
 nounally\v
 noun\N
@@ -136556,8 +136556,8 @@ nourish\t
 nous\N
 nouveau riche\hA
 nouveau roman\h
-nouveaut\8Es\p
-nouveaut\8E\N
+nouveautés\p
+nouveauté\N
 Nouvelle Vague\h
 Nouvelle-Caldonie\N
 nouvelles vagues\p
@@ -136649,7 +136649,7 @@ Noyes\N
 Noyon\N
 Nozicka\N
 nozzle\N
-No\91mon\N
+Noëmon\N
 No\N
 no\vND
 Np or d\h
@@ -136760,7 +136760,7 @@ Nueces\N
 Nueva Ocotepeque\h
 Nuevo Laredo\h
 Nuevo Leon\h
-Nuevo Le\97n\h
+Nuevo León\h
 Nuffield\N
 Nufud\N
 nugae\p
@@ -137081,10 +137081,10 @@ nystatin\N
 nytril\N
 Nyx\N
 NY\N
-N\8Ethou\N
-N\94mes\N
-N\9Aggerath\N
-N\9F-kua\N
+Néthou\N
+Nîmes\N
+Nöggerath\N
+Nü-kua\N
 N\N
 n\ND
 O gauge\h
@@ -137109,7 +137109,7 @@ O'Donovan\N
 O'Driscoll\N
 o'er\Pv
 O'Fallon\N
-O'Faol\87in\N
+O'Faoláin\N
 O'Fiaich\N
 O'Gowan\N
 O'Grady\N
@@ -137305,7 +137305,7 @@ objectlessness\N
 objector\N
 object\Nti
 objet d'art\h
-objet trouv\8E\h
+objet trouvé\h
 objet trouv\h
 objurgated\t
 objurgate\t
@@ -137784,7 +137784,7 @@ oculomotor nerve\h
 oculomotor\A
 oculus\N
 Ocypete\N
-Ocyrrho\91\N
+Ocyrrhoë\N
 oc\N
 Oc\N
 OC\N
@@ -140066,7 +140066,7 @@ Osmo\N
 osmunda\N
 osmund\N
 Osmund\N
-Osnabr\9Fck\N
+Osnabrück\N
 Osnabr\N
 Osnaburg\N
 osnaburg\N
@@ -141023,7 +141023,7 @@ outrung\V
 outrunner\N
 outrun\V
 outrush\N
-outr\8E\A
+outré\A
 outr\A
 outsaid\t
 outsail\t
@@ -144202,15 +144202,15 @@ Ozzie\N
 Ozzy\N
 Oz\N
 oz\N
-O\95zys\N
-o\9Agamy\N
-o\9Agenetic\A
-o\9Akinetic\A
-o\9Alitic\A
-o\9Alogical\A
-o\9Aphoric\A
-o\9Aphytic\A
-o\9Asporic\A
+Oïzys\N
+oögamy\N
+oögenetic\A
+oökinetic\A
+oölitic\A
+oölogical\A
+oöphoric\A
+oöphytic\A
+oösporic\A
 O\!
 o\N
 p ae\h
@@ -144763,9 +144763,9 @@ paleozoological\A
 paleozoologic\A
 paleozoologist\N
 paleozoology\N
-paleozo\9Alogical\A
-paleozo\9Alogic\A
-paleozo\9Alogist\N
+paleozoölogical\A
+paleozoölogic\A
+paleozoölogist\N
 Palermitan\AN
 Palermo\N
 paler\A
@@ -145295,7 +145295,7 @@ Panther\N
 panther\N
 Panthia\N
 Panthous\N
-Panth\8Eon\N
+Panthéon\N
 Pantia\N
 panties\p
 pantie\N
@@ -145350,7 +145350,7 @@ panus\N
 Panza\N
 panzer division\h
 panzer\N
-pan\8E\A
+pané\A
 pan\ANV
 Pan\N
 Paola\N
@@ -145399,7 +145399,7 @@ paper tiger\h
 paper wasp\h
 paper work\h
 paper-cutter\N
-paper-m\89ch\8E\h
+paper-mâché\h
 paper-shelled\A
 paperback\NA
 paperbark maple\h
@@ -145427,7 +145427,7 @@ Paphian\A
 Paphlagonia\N
 Paphos\N
 Papiamento\N
-papier coll\8E\hA
+papier collé\hA
 papier coll\h
 papier-mch\NA
 papilionaceous\A
@@ -145479,7 +145479,7 @@ papyrological\A
 papyrologist\N
 papyrology\N
 papyrus\N
-pap\8Elonn\8E\A
+papélonné\A
 pap\N
 Paquito\N
 par aff\ht
@@ -145722,7 +145722,7 @@ Paramount\N
 paramour\N
 paramo\N
 Paramus\N
-Paranagu\87\N
+Paranaguá\N
 paranasal\A
 paranephros\N
 parang\N
@@ -145731,7 +145731,7 @@ paranoia\N
 paranoid\AN
 paranormal\A
 paranymph\N
-Paran\87\N
+Paraná\N
 Paran\N
 paraparesis\N
 parapdia\p
@@ -145825,7 +145825,7 @@ paravane\N
 paravent\N
 paraxial\A
 parazoan\N
-Para\92ba\N
+Paraíba\N
 para\N
 Para\N
 Parber\N
@@ -145948,7 +145948,7 @@ pariahism\N
 pariah\N
 Parian ware\h
 Parian\AN
-Paricut\92n\N
+Paricutín\N
 Paricut\N
 paries\N
 parietal bone\h
@@ -146057,7 +146057,7 @@ Parnaiba\N
 Parnassian\AN
 Parnassus\N
 Parnas\N
-Parna\92ba\N
+Parnaíba\N
 Parnellism\N
 Parnellite\N
 Parnell\NA
@@ -146360,14 +146360,14 @@ parvis\N
 parvulus\N
 Paryavi\N
 Parzival\N
-Par\87 rubber\h
-Par\8E\N
+Pará rubber\h
+Paré\N
 Par\N
 par\NA
-pas d'\89ne\h
+pas d'âne\h
 pas de basque\h
 pas de chat\h
-pas de c\99t\8E\h
+pas de côté\h
 pas de deux\h
 pas du tout\h
 pas seul\h
@@ -146414,7 +146414,7 @@ pash\NV
 Pasia\N
 Pasionaria\N
 Pasiphae\N
-Pasipha\91\N
+Pasiphaë\N
 Pasithea\N
 Paske\N
 paso doble\h
@@ -146525,7 +146525,7 @@ passport\N
 passsaging\V
 passus\N
 password\N
-pass\8E\AN
+passé\AN
 pass\AVtiN!
 Pass\N
 past master\h
@@ -146863,7 +146863,7 @@ pattle\N
 Patton\N
 Patty\N
 patty\N
-patt\8Ee\A
+pattée\A
 patt\A
 Patt\N
 patulously\v
@@ -146991,7 +146991,7 @@ Pavlov\N
 pavonine\A
 Pavo\N
 Pavyer\N
-pav\8E\Nv
+pavé\Nv
 pav\N
 Paw Paw Lake\h
 Paw Paw\h
@@ -147055,7 +147055,7 @@ payoff\NA
 payola\N
 payroll deduction insurance\h
 payroll\N
-Paysand\9C\N
+Paysandú\N
 Paysand\N
 Payson\N
 Payton\N
@@ -147646,7 +147646,7 @@ pellucidity\N
 pellucidly\v
 pellucidness\N
 pellucid\A
-Pell\8Eas et M\8Elisande\t
+Pelléas et Mélisande\t
 Pell\N
 Pelmanism\N
 Pelmas\N
@@ -147690,7 +147690,7 @@ pelvic girdle\h
 pelvic\A
 pelvises\p
 pelvis\N
-Pel\8Ee\N
+Pelée\N
 Pel\N
 Pemba\N
 Pember\N
@@ -147936,9 +147936,9 @@ pension\Nt
 pensive\A
 penstemon\N
 penstock\N
-Pens\8Ees\N
-pens\8Ees\p
-pens\8Ee\N
+Pensées\N
+pensées\p
+pensée\N
 pent-up\A
 pentachlorophenol\N
 pentacle\N
@@ -149076,7 +149076,7 @@ pervious\A
 Pervouralsk\N
 perv\Ni
 Perzan\N
-Per\97n\N
+Perón\N
 per\DP
 Per\N
 Pesach\N
@@ -149351,7 +149351,7 @@ Petunia\N
 petunia\N
 petuntse\N
 Petuu\N
-Pet\9Afi\N
+Petöfi\N
 Pet\N
 pet\NV
 Peugia\N
@@ -149545,7 +149545,7 @@ phasmajector\N
 phasmid\NA
 phatic\A
 Phaye\N
-Pha\91nna\N
+Phaënna\N
 pheasant's eye\h
 pheasant's-eyes\p
 pheasant's-eye\N
@@ -150523,7 +150523,7 @@ phytotoxic\A
 phytotoxin\N
 phytotron\N
 Phyxius\N
-Ph\8Fdre\N
+Phèdre\N
 pH\N
 Ph\N
 pi meson\h
@@ -150562,7 +150562,7 @@ pias\N
 Piatigorsky\N
 Piatigorsk\N
 Piaui\N
-Piau\92\N
+Piauí\N
 Piave\N
 piazzaed\A
 piazza\N
@@ -150772,7 +150772,7 @@ pied wagtail\h
 pied-billed grebe\h
 pied-de-biche\N
 pied-piping\N
-pied-\88-terre\N
+pied-à-terre\N
 pied-\N
 Piedmontese\NA
 piedmontite\N
@@ -150838,7 +150838,7 @@ Pietra\N
 Pietrek\N
 Pietro\N
 piety\N
-Piet\88\N
+Pietà\N
 piet\N
 piezochemistry\N
 piezoelectric crystal\h
@@ -151111,7 +151111,7 @@ pinafore\N
 Pinafore\N
 pinang\N
 Pinar del Ro\h
-Pinar del R\92o\h
+Pinar del Río\h
 pinards\p
 pinard\N
 pinaster\N
@@ -151200,7 +151200,7 @@ pinged\i
 pinge\i
 pinging\i
 pingo\N
-Pingr\8E\N
+Pingré\N
 pinguidity\N
 pinguid\A
 Ping\N
@@ -151322,7 +151322,7 @@ Pinxter\N
 pinx\N
 piny\A
 Pinzler\N
-Pinz\97n\N
+Pinzón\N
 Pinz\N
 pin\NVt
 piolet\N
@@ -151405,8 +151405,8 @@ piqued\V
 piquet\N
 pique\NVt
 piquing\V
-piqu\8Es\p
-piqu\8E\NA
+piqués\p
+piqué\NA
 piqu\N
 piracy\N
 Piraeus\N
@@ -151428,7 +151428,7 @@ Pire\N
 piriformes\p
 piriformis\N
 Pirithous\N
-Piritho\9Fs\N
+Pirithoüs\N
 Pirke Aboth\h
 Pirnot\N
 pirn\N
@@ -151518,7 +151518,7 @@ piston rod\h
 pistonlike\A
 Piston\N
 piston\N
-pis\8E\N
+pisé\N
 pis\p
 pit dwelling\h
 pit grave\h
@@ -151688,8 +151688,8 @@ pizzeria\N
 pizzicato\AvN
 pizzle\N
 pizz\N
-pi\96a\h
-pi\9D\v
+piña\h
+più\v
 PI\N
 Pi\N
 pi\vNVt
@@ -152404,8 +152404,8 @@ Pliske\N
 plisse\N
 pliss\N
 Plisthenes\N
-pli\8Es\p
-pli\8E\N
+pliés\p
+plié\N
 ploat\t
 ploce\N
 Ploch\N
@@ -152608,7 +152608,7 @@ pluviometry\N
 pluviosity\N
 pluvious\A
 Pluvius\N
-Pluvi\99se\N
+Pluviôse\N
 Pluvi\N
 plu\N
 ply metal\h
@@ -152625,7 +152625,7 @@ plywood\N
 ply\ViN
 Plzen\N
 Plze\N
-Pl\87cido's disk\h
+Plácido's disk\h
 PL\N
 pl\N
 PMA\N
@@ -152679,7 +152679,7 @@ pneumonoultramicroscopicsilicovolcanoconiosis\N
 pneumothorax\N
 pneum\N
 Pnom Penh\h
-Po Ch\9F-i\h
+Po Chü-i\h
 po-faced\A
 poaceous\A
 poachable\A
@@ -152848,7 +152848,7 @@ poilus\p
 poilu\N
 poil\N
 poimenics\N
-Poincar\8E\N
+Poincaré\N
 Poincar\N
 poinciana\N
 poind\t
@@ -152860,7 +152860,7 @@ point charge\h
 Point Cook\h
 Point Counter Point\h
 point count\h
-point coup\8E\h
+point coupé\h
 point d'Angleterre\h
 point d'appui\h
 point d'esprit\h
@@ -152883,7 +152883,7 @@ point off\t
 point out\t
 point source\h
 point system\h
-point tir\8E\h
+point tiré\h
 point up\t
 point-bearing pile\h
 point-blank\Av
@@ -152906,7 +152906,7 @@ pointe\N
 Pointillism\N
 pointillism\NA
 pointillist\N
-pointill\8E\A
+pointillé\A
 pointing\N
 pointlessly\v
 pointlessness\N
@@ -153513,7 +153513,7 @@ pommel\NV
 Pommern\N
 pommes blanches\p
 pommy\N
-pomm\8Ee\A
+pommée\A
 pomologically\v
 pomological\A
 pomologist\N
@@ -153547,7 +153547,7 @@ Ponca City\h
 Poncas\p
 Ponca\N
 Ponce de Leon\h
-Ponce de Le\97n\h
+Ponce de León\h
 ponceau\NA
 Ponce\N
 ponce\Ni
@@ -153585,7 +153585,7 @@ pons asinorum\h
 pons Varolii\h
 Ponselle\N
 pons\N
-Pont l'Ev\90que\h
+Pont l'Evêque\h
 Ponta Delgada\h
 Ponta Grossa\h
 pontage\N
@@ -153675,7 +153675,7 @@ poon\N
 poop cabin\h
 poop deck\h
 poop staff\h
-Poop\97\N
+Poopó\N
 Poop\N
 poop\NtiV
 poor box\h
@@ -153705,7 +153705,7 @@ pop fly\h
 pop off\i
 pop-shop\N
 pop-up\A
-Popay\87n\N
+Popayán\N
 popcorn\N
 pope's nose\h
 popedom\N
@@ -153976,8 +153976,8 @@ portionable\A
 portioner\N
 portionless\A
 portion\Nt
-porti\8Fres\p
-porti\8Fre\N
+portières\p
+portière\N
 Portland cement\h
 Portland\N
 Portlaoise\N
@@ -154713,7 +154713,7 @@ potentiometric\A
 potently\v
 potentness\N
 potenty\A
-potent\8Ee\A
+potentée\A
 potent\A
 potful\N
 pothead\N
@@ -154750,7 +154750,7 @@ potoo\N
 potoroos\p
 potoroo\N
 Potosi\N
-Potos\92\N
+Potosí\N
 Potos\N
 potpie\N
 potpourri\N
@@ -154796,8 +154796,8 @@ pouch\Nt
 poudrin\N
 pouf\N
 Poughkeepsie\N
-Pouilly-Fuiss\8E\N
-Pouilly-Fum\8E\N
+Pouilly-Fuissé\N
+Pouilly-Fumé\N
 Pouilly\N
 poulard wheat\h
 poulard\N
@@ -154830,7 +154830,7 @@ poundal\N
 pounder\N
 Pound\N
 pound\VtiN
-pour le m\8Erite\h
+pour le mérite\h
 pour test\h
 pourability\N
 pourable\A
@@ -154844,8 +154844,8 @@ pourparler\N
 pourpoint\N
 pourris\p
 pour\VtiN
-pousse-caf\8Es\p
-pousse-caf\8E\N
+pousse-cafés\p
+pousse-café\N
 pousse-caf\N
 poussetted\V
 poussette\Ni
@@ -154946,9 +154946,9 @@ pozzuolana\N
 Pozzuoli\N
 pozzy\N
 Pozzy\N
-Po\8Dos de Caldas\h
-Po\8Fmes Antiques\h
-Po\8Fmes Barbares\h
+Poços de Caldas\h
+Poèmes Antiques\h
+Poèmes Barbares\h
 Po\N
 po\N
 PO\N
@@ -155095,7 +155095,7 @@ prao\N
 Prasad\N
 praseodymium\N
 prase\N
-Pratdesab\87\N
+Pratdesabá\N
 prater\N
 prate\itN
 pratfall\N
@@ -158751,9 +158751,9 @@ preyer\N
 preyouthful\A
 prey\Ni
 prezygomatic\A
-pre\91mptor\N
-pre\91xistence\N
-pre\91xistent\A
+preëmptor\N
+preëxistence\N
+preëxistent\A
 PRE\N
 Priam\N
 priapic\A
@@ -160532,7 +160532,7 @@ prothoraces\p
 prothoracic\A
 prothoraxes\p
 prothorax\N
-Protho\91nor\N
+Prothoënor\N
 prothrombin\N
 protistan\AN
 Protista\p
@@ -160604,8 +160604,8 @@ protozoologist\N
 protozoology\N
 protozoonal\A
 protozoon\N
-protozo\9Alogical\A
-protozo\9Alogist\N
+protozoölogical\A
+protozoölogist\N
 protozzoa\p
 protractedly\v
 protractedness\N
@@ -160678,8 +160678,8 @@ provenience\N
 provenly\v
 proventricular\A
 proventriculus\N
-Proven\8Dale\AN
-Proven\8Dal\h
+Provençale\AN
+Provençal\h
 proven\VA
 proverbially\v
 proverbial\A
@@ -160857,15 +160857,15 @@ Pry\N
 pry\VN
 Przemy\N
 Przewalski's horse\h
-pr\8Ecieuse\NA
-pr\8Ecieux\p
-pr\8Ecis\Nt
-pr\8Evenances\p
-pr\8Evenance\N
-Pr\8Evost d'Exiles\h
-Pr\8Evost\N
-pr\92ncipes\p
-pr\92ncipe\N
+précieuse\NA
+précieux\p
+précis\Nt
+prévenances\p
+prévenance\N
+Prévost d'Exiles\h
+Prévost\N
+príncipes\p
+príncipe\N
 Pr\N
 pr\N
 PR\N
@@ -161620,7 +161620,7 @@ ptomaine\N
 ptomainic\A
 ptosis\N
 ptotic\A
-Pto\9Fs\N
+Ptoüs\N
 Pto\N
 ptp\N
 pts\N
@@ -161747,7 +161747,7 @@ puerperal\A
 puerpera\N
 puerperium\N
 Puerto Ayacucho\h
-Puerto Lim\97n\h
+Puerto Limón\h
 Puerto Montt\h
 Puerto Rican\h
 Puerto Rico\h
@@ -162257,8 +162257,8 @@ purveyor\N
 purvey\t
 purview\N
 Purvis\N
-pur\8Ee\Nt
-Pur\9Cs\N
+purée\Nt
+Purús\N
 Pur\N
 Pusan\N
 Puseyism\NA
@@ -162643,7 +162643,7 @@ pyrruvic acid\h
 pyruvic acid\h
 pyruvic aldehyde\h
 pyruvic\A
-Pyr\8En\8Ees-Orientales\N
+Pyrénées-Orientales\N
 Pyszka\N
 Pythagoras' theorem\h
 Pythagoras\N
@@ -162674,21 +162674,21 @@ Pyxis\N
 pyxis\N
 pyx\N
 Py\N
-p\89te de verre\h
-p\89te dure\h
-p\89te sur p\89te\h
-p\89te \88 chou\h
-p\89te\N
-p\89t\8Es\p
-p\89t\8E\N
-P\8Ecs\N
-P\8Erigord\N
-P\8Etain\N
-p\8Fre\t
-P\99rto Alegre\h
-P\99rto Am\8Elia\h
-P\99rto Velho\h
-P\99rto\N
+pâte de verre\h
+pâte dure\h
+pâte sur pâte\h
+pâte à chou\h
+pâte\N
+pâtés\p
+pâté\N
+Pécs\N
+Périgord\N
+Pétain\N
+père\t
+Pôrto Alegre\h
+Pôrto Amélia\h
+Pôrto Velho\h
+Pôrto\N
 P\N
 p\N
 Q clearance\h
@@ -162910,7 +162910,7 @@ qualm\N
 quam libet\h
 quamash\N
 Quanah\N
-quand m\90me\h
+quand même\h
 quandaries\p
 quandary\N
 quandong\N
@@ -164225,7 +164225,7 @@ Quertaro\N
 querulous\A
 queryingly\v
 query\NVt
-Quer\8Etaro\N
+Querétaro\N
 Quesnay\N
 Quesnel\N
 Questa\N
@@ -164258,7 +164258,7 @@ quetsch\N
 Quetta\N
 Quetzalcoatl\N
 quetzal\N
-queue fourch\8E\h
+queue fourché\h
 queued\V
 queuer\N
 queue\NV
@@ -164272,13 +164272,13 @@ Que\N
 Qui Nhong\h
 qui s'excuse s'accuse\h
 qui transtulit sustinet\h
-qui va l\88?\h
+qui va là?\h
 qui vive\h
 quibbler\N
 quibble\iN
 quibblingly\v
 quibbling\AN
-Quibd\97\N
+Quibdó\N
 Quiberon\N
 quibus\r
 quiche\N
@@ -165038,7 +165038,7 @@ Raff\N
 raff\N
 Rafiq\N
 Rafi\N
-rafra\94chissoir\N
+rafraîchissoir\N
 raft ice\h
 rafter table\h
 Rafter\N
@@ -165362,8 +165362,8 @@ ramtil\N
 ramulose\A
 Ramunni\N
 ramus\N
-Ram\8Ee\N
-Ram\97n y Cajal\h
+Ramée\N
+Ramón y Cajal\h
 Ram\N
 RAM\N
 ram\NV
@@ -165722,7 +165722,7 @@ rathe\A
 Rathke's pouch\h
 rathole\N
 rathskeller\N
-Rath\8Auser\p
+Rathäuser\p
 rath\AN
 Ratib\N
 ratificationist\NA
@@ -165734,7 +165734,7 @@ ratine\N
 rating badge\h
 rating nut\h
 rating\N
-ratin\8E\N
+ratiné\N
 ratio test\A
 ratiocinated\i
 ratiocinate\i
@@ -166733,7 +166733,7 @@ receptor\N
 receptually\v
 receptual\A
 recept\N
-recercel\8Ee\A
+recercelée\A
 recertification\N
 recertified\t
 recertifying\t
@@ -168599,7 +168599,7 @@ Reichenberg\N
 Reichert\N
 Reiche\N
 Reichsbank\N
-Reichsf\9Fhrer\N
+Reichsführer\N
 reichsmarks\p
 Reichsmark\N
 reichsmark\p
@@ -169088,7 +169088,7 @@ relever\t
 relevied\t
 relevying\t
 relevy\t
-relev\8E\N
+relevé\N
 reliability\N
 reliable\A
 reliably\v
@@ -169601,11 +169601,11 @@ renunciable\A
 renunciation\N
 renunciative\A
 renunciatory\A
-renvers\8E\A
+renversé\A
 renvoi\N
 Renwick\N
 Renzo\N
-Ren\8Ee\N
+Renée\N
 reobject\t
 reobligated\t
 reobligate\t
@@ -169916,7 +169916,7 @@ repost\t
 repot\V
 repour\t
 repoussage\N
-repouss\8E\A
+repoussé\A
 repouss\AN
 Repplier\N
 repp\N
@@ -170965,7 +170965,7 @@ retirer\N
 retire\Vt
 retiringly\i
 retiring\A
-retir\8E\h
+retiré\h
 retitled\t
 retitle\t
 retitling\t
@@ -171088,7 +171088,7 @@ retrospectiveness\N
 retrospective\AN
 retrospect\NVi
 retroussage\N
-retrouss\8E\A
+retroussé\A
 retrouss\A
 retroversion\N
 retro\N
@@ -171536,10 +171536,10 @@ rezoned\t
 rezone\t
 rezoning\t
 Rezzani\N
-re\91ducation\N
-re\91ntrance\N
-re\91xportation\N
-re\91xporter\N
+reëducation\N
+reëntrance\N
+reëxportation\N
+reëxporter\N
 RE\iN
 Re\N
 re\NP
@@ -171866,7 +171866,7 @@ ribbonwood\N
 ribbony\A
 ribbon\Nt
 Ribeirto\N
-Ribeir\8Bo Pr\90to\h
+Ribeirão Prêto\h
 Ribera\N
 ribgrass\N
 Ribicoff\N
@@ -172484,7 +172484,7 @@ Rissa\N
 Risser\N
 rissoles\p
 rissole\N
-rissol\8E\A
+rissolé\A
 Riss\N
 Risteau\N
 Rist\N
@@ -172765,7 +172765,7 @@ Rocca\N
 Rocco\N
 Rochdale\N
 roche alum\h
-roche moutonn\8Eer\h
+roche moutonnéer\h
 roche moutonn\h
 Rochella\N
 Rochelle Park\h
@@ -173159,7 +173159,7 @@ Roman ride\h
 Roman rite\h
 Roman strike\h
 Roman wormwood\h
-roman \88 clef\h
+roman à clef\h
 roman-fleuve\N
 Roman-nosed\A
 Romanas\N
@@ -173201,7 +173201,7 @@ romanticizing\V
 romantic\AN
 Romanus\N
 Romany\N
-Roman\8Ee-Conti\N
+Romanée-Conti\N
 Roman\AN
 roman\AN
 romaunt\N
@@ -173249,7 +173249,7 @@ Romulo\N
 Romulus\N
 romyko\N
 Romy\N
-Rom\89nia\N
+România\N
 rom\N
 Rom\N
 ROM\N
@@ -173275,7 +173275,7 @@ rondos\p
 rondo\N
 ronds de jambe\p
 rondure\N
-Rond\99nia\N
+Rondônia\N
 Ronel\N
 Ronen\N
 Roneo\VN
@@ -173432,7 +173432,7 @@ Roquefort\N
 roquelaures\p
 roquelaure\N
 roquellorz\p
-roquell\99rz\p
+roquellôrz\p
 roquet\VN
 Roque\N
 roque\N
@@ -173657,7 +173657,7 @@ rosy pastor\h
 rosy\A
 Rosy\N
 Roszak\N
-ros\8E\N
+rosé\N
 ros\N
 Ros\N
 Rotameter\N
@@ -173896,7 +173896,7 @@ rout\NtVi
 Rouvin\N
 Roux\N
 roux\N
-rou\8E\N
+roué\N
 Rovaniemi\N
 rove beetle\h
 rove punch\h
@@ -174699,47 +174699,47 @@ Ryukyu\N
 Ryun\N
 Ryurik\N
 Ry\N
-R\8Eaumur\NA
-R\8Eaum\h
-R\8Ecamier\N
-r\8Echauff\8Es\p
-r\8Echauff\8E\N
-r\8Eclame\h
-R\8Egence\A
-r\8Egisseurs\p
-r\8Egisseur\Nt
-r\8Emoulade\N
-R\8Epublique Malgache\h
-r\8Ep\8Etiteurs\p
-r\8Ep\8Etiteur\N
-r\8Ep\8Etition g\8En\8Erale\h
-r\8Esistantes\p
-r\8Esistante\N
-r\8Esistants\p
-r\8Esistant\N
-r\8Esum\8E\N
-R\8Eunion\N
-R\92o Bravo\h
-R\92o Cuarto\h
-R\92o de Oro\h
-R\92o Muni\h
-R\92o Negro\h
-r\99ti\N
-R\9Anne\N
-r\9Antgenized\t
-r\9Antgenize\t
-r\9Antgenizing\t
-r\9Antgenographically\v
-r\9Antgenographic\A
-r\9Antgenography\N
-r\9Antgenological\A
-r\9Antgenologic\A
-r\9Antgenologist\N
-r\9Antgenology\N
-r\9Antgenoscope\N
-r\9Antgenoscopic\A
-r\9Antgenoscopy\N
-R\9Antgen\N
+Réaumur\NA
+Réaum\h
+Récamier\N
+réchauffés\p
+réchauffé\N
+réclame\h
+Régence\A
+régisseurs\p
+régisseur\Nt
+rémoulade\N
+République Malgache\h
+répétiteurs\p
+répétiteur\N
+répétition générale\h
+résistantes\p
+résistante\N
+résistants\p
+résistant\N
+résumé\N
+Réunion\N
+Río Bravo\h
+Río Cuarto\h
+Río de Oro\h
+Río Muni\h
+Río Negro\h
+rôti\N
+Rönne\N
+röntgenized\t
+röntgenize\t
+röntgenizing\t
+röntgenographically\v
+röntgenographic\A
+röntgenography\N
+röntgenological\A
+röntgenologic\A
+röntgenologist\N
+röntgenology\N
+röntgenoscope\N
+röntgenoscopic\A
+röntgenoscopy\N
+Röntgen\N
 R\N
 r\N
 S Afr\h
@@ -174764,7 +174764,7 @@ S-state\N
 S/D\N
 Saadi\N
 Saarbren\N
-Saarbr\9Fcken\N
+Saarbrücken\N
 Saaremaa\N
 Saarinen\N
 Saarland\N
@@ -175253,7 +175253,7 @@ Saint-Cloud\N
 Saint-Denis\N
 Saint-Etienne\N
 Saint-Exupery\N
-Saint-Exup\8Ery\N
+Saint-Exupéry\N
 Saint-Just\N
 Saint-Laurent\N
 Saint-Louis\N
@@ -175265,7 +175265,7 @@ Saint-Nazaire\N
 Saint-Ouen\N
 Saint-Pierre\N
 Saint-Quentin\N
-Saint-Sa\91ns\N
+Saint-Saëns\N
 Saint-Sa\N
 Saint-Simonianism\NA
 Saint-Simon\N
@@ -175784,7 +175784,7 @@ San Buenaventura\h
 San Carlos\h
 San Clemente\h
 San Cristbal\h
-San Crist\97bal\h
+San Cristóbal\h
 San Diego\h
 San Felipe\h
 San Fernando\h
@@ -175805,11 +175805,11 @@ San Juan Islands\p
 San Juan Mountains\p
 San Juan\h
 San Luis Obispo\h
-San Luis Potos\92\h
+San Luis Potosí\h
 San Luis Potos\h
 San Manuel\h
 San Marino\h
-San Mart\92n\h
+San Martín\h
 San Mart\h
 San Mateo\h
 San Miguel\h
@@ -175820,7 +175820,7 @@ San Remo\h
 San Saba\h
 San Salvador Island\h
 San Salvador\h
-San Sebasti\87n\h
+San Sebastián\h
 San Sebasti\h
 San Stefano\h
 Sanalda\N
@@ -176026,7 +176026,7 @@ Sango\N
 Sangraal\N
 Sangre de Cristo\h
 sangria\N
-sangr\92a\h
+sangría\h
 sanguiferous\A
 sanguification\N
 sanguinaria\N
@@ -176083,7 +176083,7 @@ sank\V
 Sanmicheli\N
 sannyasi\N
 sans doute\h
-sans g\90ne\h
+sans gêne\h
 sans pareil\h
 sans serif\h
 sans souci\h
@@ -176120,7 +176120,7 @@ Santa Cruz\h
 Santa Fe Trail\h
 Santa Fean\h
 Santa Fe\h
-Santa F\8E\h
+Santa Fé\h
 Santa Gertrudis\h
 Santa Isabel\h
 Santa Klaus\h
@@ -176134,7 +176134,7 @@ santal\N
 Santana\N
 Santander\N
 Santaria\N
-Santar\8Em\N
+Santarém\N
 Santar\N
 Santayana\N
 Santa\N
@@ -176147,7 +176147,7 @@ santimi\p
 santims\N
 Santini\N
 santir\N
-Santo Andr\8E\h
+Santo André\h
 Santo Domingo\h
 santonica\N
 santonin\N
@@ -176545,8 +176545,8 @@ satyr\N
 Sat\N
 SAT\N
 sat\V
-sauce financi\8Fre\h
-sauce supr\90me\h
+sauce financière\h
+sauce suprême\h
 sauceboat\N
 saucebox\N
 sauced\V
@@ -176610,7 +176610,7 @@ saussuritic\A
 Sauternes\N
 sauts de basque\p
 Sauttoirs\p
-saut\8E\AtN
+sauté\AtN
 saut\VNA
 sauve qui peut\h
 Sauveur\N
@@ -176784,14 +176784,14 @@ Sayreville\N
 Sayre\N
 says\N
 sayyid\N
-Say\8Bo\N
+Sayão\N
 Say\N
 say\VvN!
 Sazerac\N
 sazerac\N
-Sa\95s\N
-Sa\95tic\NA
-Sa\99ne\N
+Saïs\N
+Saïtic\NA
+Saône\N
 Sa\N
 sa\N
 SBA\N
@@ -177451,9 +177451,9 @@ Schroeder\N
 Schroer\N
 Schroth\N
 schryari\N
-Schr\9Ader-Bernstein theorem\h
-Schr\9Adinger wave equation\h
-Schr\9Adinger\N
+Schröder-Bernstein theorem\h
+Schrödinger wave equation\h
+Schrödinger\N
 Schubert\N
 Schug\N
 Schuh\N
@@ -177506,10 +177506,10 @@ Schwitters\N
 Schwitzer\N
 Schwyz\N
 schynbald\N
-Sch\9Anbein\N
-Sch\9Anberg\N
-Sch\9Ane M\9Fllerin Die\h
-Sch\9Ftz\N
+Schönbein\N
+Schönberg\N
+Schöne Müllerin Die\h
+Schütz\N
 sch\N
 Sch\N
 sci-fi\N
@@ -178133,7 +178133,7 @@ scudded\V
 scudding\V
 scudi\p
 scudo\N
-Scud\8Ery\N
+Scudéry\N
 scud\VN
 scuffle\iN
 scufflingly\v
@@ -178669,7 +178669,7 @@ secretly\v
 secretness\N
 secretory\A
 secret\AN
-secr\8Fte\N
+secrète\N
 Secs\N
 sectarianised\t
 sectarianise\t
@@ -178920,7 +178920,7 @@ segregational\A
 segregationist\N
 segregation\N
 segregator\N
-Segr\8F\N
+Segrè\N
 segue\V
 seguidilla\N
 Segura\N
@@ -181040,7 +181040,7 @@ sempiternal\A
 semplice\Av
 sempre\v
 sempstress\N
-Sem\91nov\h
+Semënov\h
 Sem\N
 sem\N
 Senalda\N
@@ -181573,7 +181573,7 @@ serpiginous\A
 serpigo\N
 Serpukhov\N
 serpulid\N
-Serra Jun\92pero\h
+Serra Junípero\h
 serranid\NA
 Serrano\N
 serrated\V
@@ -181781,7 +181781,7 @@ setulae\p
 setula\N
 setulose\A
 setup\N
-Set\9Cbal\N
+Setúbal\N
 Set\N
 set\ViNA
 Seumas\N
@@ -181972,9 +181972,9 @@ Seymour\N
 Seys\N
 Sezen\N
 Sezession\N
-se\96ora\N
-se\96oritas\p
-se\96orita\N
+señora\N
+señoritas\p
+señorita\N
 SE\N
 Sfax\N
 Sfc\N
@@ -183008,7 +183008,7 @@ shirtwaister\N
 shirtwaist\N
 shirty\A
 shirt\N
-Shir\8E\N
+Shiré\N
 Shir\N
 shish kebab\h
 Shishko\N
@@ -183041,7 +183041,7 @@ shivoos\p
 shivoo\N
 shiv\N
 Shizuoka\N
-Shkod\91r\N
+Shkodër\N
 Shkod\N
 shkotzim\Np
 shlemiel\N
@@ -184915,9 +184915,9 @@ sizzler\N
 sizzle\iN
 sizzlingly\v
 sizzling\V
-si\8Fcle d'or\h
-si\8Fcles\p
-si\8Fcle\N
+siècle d'or\h
+siècles\p
+siècle\N
 si\N
 Si\N
 SI\N
@@ -186982,7 +186982,7 @@ Soho\N
 Sohrab and Rustum\h
 soh\N
 soi-disant\A
-soign\8E\A
+soigné\A
 soign\A
 soil bank\h
 soil conditioner\h
@@ -186995,8 +186995,8 @@ soilure\N
 soil\NVt
 Soinski\N
 soiree\N
-soir\8Ees\p
-soir\8Ee\N
+soirées\p
+soirée\N
 Soissons\N
 soixante-neuf\N
 soja\N
@@ -187108,7 +187108,7 @@ solfatara\N
 solfataric\A
 solfeggio\N
 solferino\N
-solf\8Fge\N
+solfège\N
 Solicitor General\h
 solicitorship\N
 solicitor\N
@@ -187661,7 +187661,7 @@ sottishness\A
 sottish\A
 sotto voce\v
 sot\N
-sou marqu\8E\h
+sou marqué\h
 sou marqu\h
 sou'wester\N
 sou-sou\N
@@ -187678,10 +187678,10 @@ Soudan\N
 Souderton\N
 souffle\NA
 Soufflot\N
-souffl\8Eed\V
-souffl\8Eing\V
-souffl\8E\ANt
-Soufri\8Fre\iN
+souffléed\V
+souffléing\V
+soufflé\ANt
+Soufrière\iN
 Soufri\N
 soughfully\v
 soughless\A
@@ -187760,7 +187760,7 @@ Souphanourong\N
 soupiere\N
 soupier\A
 soupiest\A
-soupi\8Fres\p
+soupières\p
 soupless\A
 souple\N
 souplike\A
@@ -189713,7 +189713,7 @@ spy out\t
 spyglass\N
 spying\V
 spy\NV
-Sp\9Arer\N
+Spörer\N
 SP\N
 Sp\N
 sp\N
@@ -190037,7 +190037,7 @@ St Lawrence skiff\h
 St Lawrence\h
 St Lucia\h
 St Lucie cherry\h
-St L\99\h
+St Lô\h
 St Malo\h
 St Martinville\h
 St Martin\h
@@ -190453,7 +190453,7 @@ Stanislaus\N
 Stanislavski Method\h
 Stanislavski\N
 Stanislavsky\N
-Stanislaw\97w\h
+Stanislawów\h
 Stanislaw\N
 stank\VNt
 Stanlee\N
@@ -192996,7 +192996,7 @@ Styria\N
 Styr\N
 Styx\N
 sty\NV
-St\9Afler\N
+Stöfler\N
 St\N
 st\tiN
 Su-chou\N
@@ -196927,7 +196927,7 @@ suppurate\i
 suppurating\i
 suppuration\N
 suppurative\AN
-Supp\8E\N
+Suppé\N
 supp\N
 supraglottal\A
 suprahepatic\A
@@ -196964,7 +196964,7 @@ supremeness\N
 supreme\A
 supremo\N
 supremum\N
-supr\90me\N
+suprême\N
 supr\N
 Supt\N
 Sup\N
@@ -197301,7 +197301,7 @@ Suzie\N
 Suzi\N
 Suzy\N
 Suzzy\N
-Su\87rez\N
+Suárez\N
 su\N
 Su\N
 Svalbard\p
@@ -198455,14 +198455,14 @@ Szigeti\N
 Szold\N
 Szombathely\N
 Szymanowski\N
-S\87ndor\N
-S\8Bo Francisco\h
-S\8Bo Miguel\h
-S\8Bo Salvador\h
-S\8Bo Tom\8E\h
-s\8Eance\N
-S\8Evign\8E\N
-s\8Fve\N
+Sándor\N
+São Francisco\h
+São Miguel\h
+São Salvador\h
+São Tomé\h
+séance\N
+Sévigné\N
+sève\N
 S\N
 s\N
 T and A\h
@@ -198542,7 +198542,7 @@ table talk\h
 table tennis\h
 table tripod\h
 table wine\h
-table-d'h\99te\A
+table-d'hôte\A
 table-hopped\i
 table-hopper\N
 table-hopping\i
@@ -198852,7 +198852,7 @@ Taiwan Strait\h
 Taiwanese\p
 Taiwan\N
 Taiyuan\N
-Taiy\9Fan\N
+Taiyüan\N
 Tai\AN
 Taj Mahal\h
 Tajik\N
@@ -198993,7 +198993,7 @@ Tallbot\N
 tallboy\N
 Tallchief\N
 Talleyrand-Prigord\N
-Talleyrand-P\8Erigord\N
+Talleyrand-Périgord\N
 Talley\N
 Tallia\N
 tallied\p
@@ -199315,7 +199315,7 @@ tap-dancing\i
 tapaculos\p
 tapaculo\N
 tapadera\N
-Tapaj\97s\N
+Tapajós\N
 Tapaj\N
 tapas\N
 tapa\N
@@ -199451,7 +199451,7 @@ tarnishable\A
 tarnish\VN
 tarnkappe\N
 Tarnopol\N
-Tarn\97w\N
+Tarnów\N
 tarn\N
 Tarn\N
 tarogatos\p
@@ -204051,7 +204051,7 @@ torchlike\A
 torchon lace\h
 torchwood\N
 torchy\A
-torch\8Fre\N
+torchère\N
 torch\N
 torc\N
 Tordesillas\N
@@ -204313,7 +204313,7 @@ touchmark\N
 touchstone\N
 touchwood\N
 touchy\A
-touch\8E\!
+touché\!
 touch\!Nti
 Touggourt\N
 tough cake\h
@@ -204364,7 +204364,7 @@ tourney\Ni
 tourniquet\N
 tournois\A
 Tours\N
-Tour\8E\N
+Touré\N
 Tour\N
 tour\NV
 tous-les-mois\N
@@ -204379,7 +204379,7 @@ tout court\v
 tout de suite\h
 tout ensemble\vh
 tout le monde\h
-tout \88 fait\h
+tout à fait\h
 touter\N
 tout\vViN
 touzled\t
@@ -206593,7 +206593,7 @@ trouvere\N
 trouveurs\p
 trouveur\N
 Trouville\N
-trouv\8Fres\p
+trouvères\p
 trouv\N
 trover\N
 trove\N
@@ -207967,8 +207967,8 @@ tzimmes\N
 tzitzith\N
 Tzong\N
 Tzu-po\N
-T\89rgu-Mures\N
-t\90te-\88-t\90te\AN
+Târgu-Mures\N
+tête-à-tête\AN
 t\ANv
 T\N
 U bolt\h
@@ -208868,7 +208868,7 @@ unapplicable\A
 unapplicably\v
 unapplicative\A
 unapplied\A
-unappliqu\8Ed\A
+unappliquéd\A
 unappointable\A
 unappointed\A
 unapportioned\A
@@ -212794,7 +212794,7 @@ undying\A
 undynamically\v
 undynamic\A
 undynamited\A
-und\8E\A
+undé\A
 uneagerly\v
 uneagerness\N
 uneager\A
@@ -216898,8 +216898,8 @@ unnavigableness\N
 unnavigable\A
 unnavigably\v
 unnavigated\A
-unna\95vely\v
-unna\95ve\A
+unnaïvely\v
+unnaïve\A
 unneatly\v
 unneatness\N
 unneat\A
@@ -222982,7 +222982,7 @@ using\V
 USIS\N
 Uskdar\N
 Uskub\N
-Usk\9Fdar\N
+Usküdar\N
 Usk\N
 USLTA\N
 USMA\N
@@ -223256,7 +223256,7 @@ Vadim\N
 Vadnee\N
 Vadodara\N
 vadose\A
-Vads\9A\N
+Vadsö\N
 Vaduz\N
 vae victis\h
 Vaenfila\N
@@ -223502,7 +223502,7 @@ valvular insufficiency\h
 valvular\A
 valvule\N
 valvulitis\N
-Val\90ry\N
+Valêry\N
 Val\N
 vambraced\A
 vambrace\N
@@ -223804,7 +223804,7 @@ varyingly\v
 varying\V
 Vary\N
 vary\Vti
-Var\8Fse\N
+Varèse\N
 Var\N
 VAR\N
 var\N
@@ -224082,7 +224082,7 @@ velocity\N
 velodrome\N
 velours\N
 velour\N
-velout\8E\N
+velouté\N
 velout\N
 Velquez\N
 Velsen\N
@@ -224104,7 +224104,7 @@ velvetiness\N
 velvety\A
 Velvet\N
 velvet\N
-Vel\87squez\N
+Velásquez\N
 vel\C
 vel\N
 vena cava\h
@@ -224139,7 +224139,7 @@ Venditti\N
 Vendmiaire\N
 vendor\N
 vendue\N
-Vend\8Ee\N
+Vendée\N
 Vend\N
 vend\Vt
 Veneaux\N
@@ -224277,7 +224277,7 @@ venturing\V
 venturously\v
 venturousness\N
 venturous\A
-Vent\99se\N
+Ventôse\N
 Vent\N
 vent\NVt
 venue\N
@@ -224529,7 +224529,7 @@ Veronique\N
 Veron\N
 Verras\N
 Verrazano\N
-verri\8Fre\N
+verrière\N
 Verrocchio\N
 verrucae\p
 verruca\N
@@ -224537,7 +224537,7 @@ verrucoseness\N
 verrucose\A
 verrucosity\N
 verrucous\A
-vers de soci\8Et\8E\h
+vers de société\h
 vers libre\h
 vers libristes\p
 Versailles\N
@@ -224941,7 +224941,7 @@ victualless\A
 victuals\p
 victual\Vi
 Vict\N
-vicu\96a\N
+vicuña\N
 Vic\N
 Vidalia\N
 Vidal\N
@@ -225042,7 +225042,7 @@ vigour\N
 Vigo\N
 Vigrid\N
 Viguerie\N
-Vig\8Ee-Lebrun\N
+Vigée-Lebrun\N
 Vig\N
 vihara\N
 vihuela\N
@@ -225666,7 +225666,7 @@ vituperating\t
 vituperation\N
 vituperator\N
 Vitus\N
-Vit\97ria\N
+Vitória\N
 viva voce\vAhV
 viva-voce\A
 vivace\Av
@@ -225676,7 +225676,7 @@ vivacious\A
 vivacities\p
 vivacity\N
 vivandiere\N
-vivandi\8Fres\p
+vivandières\p
 vivandi\N
 vivariums\p
 vivarium\N
@@ -225746,7 +225746,7 @@ vizsla\N
 Vizza\N
 Vizzone\N
 viz\N
-Vi\96a del Mar\h
+Viña del Mar\h
 Vi\N
 VI\N
 Vlaardingen\N
@@ -225847,8 +225847,8 @@ voider\N
 voidness\N
 void\ANV
 voile\N
-voil\88 tout\h
-voil\88\!
+voilà tout\h
+voilà\!
 Voiotia\N
 voir dire\h
 voitures\p
@@ -225861,7 +225861,7 @@ volante\vA
 volant\A
 Volapukist\N
 Volapuk\N
-Volap\9Fk\N
+Volapük\N
 volar\A
 volatile oil\h
 volatile salt\h
@@ -226013,7 +226013,7 @@ vomitus\N
 vomit\VN
 vomtoria\p
 von Braun\h
-Von B\8Ek\8Esy\h
+Von Békésy\h
 von Neumann\h
 von Sternberg\h
 Von Stroheim\h
@@ -226210,9 +226210,9 @@ Vyner\N
 Vyrene\N
 Vyse\N
 Vyshinsky\N
-V\8Asteras\N
-V\8Atter\N
-V\9Alund\N
+Västeras\N
+Vätter\N
+Völund\N
 v\N
 V\N
 W Afr\h
@@ -231735,10 +231735,10 @@ wyte\VN
 wyting\V
 wyvern\N
 Wy\N
-W\9Ansan\N
-W\9Frm\N
-W\9Frttemberg\N
-W\9Frzburg\h
+Wönsan\N
+Würm\N
+Württemberg\N
+Würzburg\h
 w\N
 W\N
 X chromosome\h
@@ -231853,7 +231853,7 @@ Xi particle\h
 Ximena\N
 Ximenes\N
 Ximenez\N
-Xing\9C\N
+Xingú\N
 Xing\N
 Xipe\N
 xiphisternal\A
@@ -232003,7 +232003,7 @@ Yancey\N
 Yance\N
 Yancy\N
 Yand\N
-Yangk\9F\N
+Yangkü\N
 Yangtze\N
 Yang\N
 Yanina\N
@@ -232580,7 +232580,7 @@ Yucatecan\A
 Yucatecs\p
 Yucatec\N
 Yucatnel\N
-Yucat\87n\N
+Yucatán\N
 Yucat\N
 yucca moth\h
 yucca\N
@@ -232643,11 +232643,11 @@ Yvor\N
 YWCA\N
 YWHA\N
 ywis\v
-y\8E-y\8E\A
-Y\9Fan\N
-Y\9Fen Shih-kai\h
-Y\9Fnnan\N
-Y\9F\N
+yé-yé\A
+Yüan\N
+Yüen Shih-kai\h
+Yünnan\N
+Yü\N
 y\N
 Y\N
 Z chart\h
@@ -232663,7 +232663,7 @@ Zabrze\N
 Zabulon\N
 Zacarias\N
 Zacatecas\N
-zacat\97n\N
+zacatón\N
 Zaccaria\N
 Zacek\N
 Zachariah\N
@@ -233299,7 +233299,7 @@ Zumstein\N
 Zumwalt\N
 Zungaria\N
 Zupus\N
-Zurbar\87n\N
+Zurbarán\N
 Zurbar\N
 Zurek\N
 Zurheide\N
@@ -233310,9 +233310,9 @@ Zurvan\N
 Zusman\N
 Zuyder Zee\h
 Zuzana\N
-Zu\96i Pueblo\h
-Zu\96ian\AN
-Zu\96i\N
+Zuñi Pueblo\h
+Zuñian\AN
+Zuñi\N
 Zwart\N
 Zweig\N
 Zwickau\N
@@ -233351,6 +233351,6 @@ Zysk\N
 zZt\N
 Zz\N
 ZZ\N
-Z\9Allner\N
+Zöllner\N
 Z\N
 z\N
