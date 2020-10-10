@@ -4,18 +4,13 @@ import re
 import numpy as np
 import json
 
-words = []
+words = {}
 
-with open("moby.txt", 'r') as m:
-    m.readline()
+with open("mobypos.txt", 'r') as m:
     for line in m:
-        #line.encode('utf-8')
-
+        line = line.rstrip()
         (word, pos) = re.split(r'\\', line)
-        arr = [word, pos] 
-        words.append(arr)
-
-json_words = json.dumps(words)    
+        words[word] = pos
 
 with open("mobywords.json", "w") as outfile:
-    json.dump(json_words, outfile)
+    json.dump(words, outfile)
