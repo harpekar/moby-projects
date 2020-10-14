@@ -20,7 +20,7 @@ fn print_girl(adj: &Vec<Value>) {
 
     let mut rng = thread_rng();
     
-    println!("{} spice", adj.choose(&mut rng).unwrap().as_str().unwrap());
+    println!("{} Spice \r", adj.choose(&mut rng).unwrap().as_str().unwrap());
 
 }
 
@@ -29,7 +29,7 @@ fn main() {
     let stdin = stdin();
     let mut stdout = stdout().into_raw_mode().unwrap();
 
-    println!("Welcome to Spice Girl Generator, press Enter to generate a new name, and press escape to exit.");
+    println!("Welcome to Spice Girl Generator, press escape to exit and any other key to generate a new name. \r");
 
     stdout.flush().unwrap();
 
@@ -39,6 +39,14 @@ fn main() {
 
     for c in stdin.keys() {
 
+        write!(
+            stdout,
+            "{}",
+            //termion::cursor::Goto(1, 1),
+            termion::clear::UntilNewline
+        )
+        .unwrap();
+
         match c.unwrap() {
 
             Key::Esc => break,
@@ -46,9 +54,5 @@ fn main() {
 
         }
     }
-
-    //println!("{}", words["ambiguous"]);
-
-    //println!("{} spice", adj.choose(&mut rng)); 
     
 }
